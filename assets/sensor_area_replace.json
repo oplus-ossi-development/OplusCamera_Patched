@@ -1,0 +1,685 @@
+{
+  "version": "1",
+  "areas": [
+    {
+      "areaReplace": "海南省，三沙市",
+      "areaReplaceExport": "海南省",
+      "keyWords": "西沙群岛"
+    },
+    {
+      "areaReplace": "海南省",
+      "areaReplaceExport": "海南省",
+      "keyWords": "西沙群島"
+    },
+    {
+      "areaReplace": "Hainan Province",
+      "areaReplaceExport": "Hainan Province",
+      "keyWords": "Xisha Islands"
+    },
+    {
+      "areaReplace": "Hainan Province",
+      "areaReplaceExport": "Hainan Province",
+      "keyWords": "Paracel Islands"
+    },
+    {
+      "areaReplace": "海南省，三沙市",
+      "areaReplaceExport": "海南省",
+      "keyWords": "中沙群岛"
+    },
+    {
+      "areaReplace": "海南省",
+      "areaReplaceExport": "海南省",
+      "keyWords": "中沙群島"
+    },
+    {
+      "areaReplace": "Hainan Province",
+      "areaReplaceExport": "Hainan Province",
+      "keyWords": "the Zhongsha Islands"
+    },
+    {
+      "areaReplace": "海南省，三沙市",
+      "areaReplaceExport": "海南省",
+      "keyWords": "中业岛"
+    },
+    {
+      "areaReplace": "海南省",
+      "areaReplaceExport": "海南省",
+      "keyWords": "中業島"
+    },
+    {
+      "areaReplace": "Hainan Province",
+      "areaReplaceExport": "Hainan Province",
+      "keyWords": "Zhongye Island"
+    },
+    {
+      "areaReplace": "西藏自治区，阿里地区",
+      "areaReplaceExport": "阿里地区，西藏自治区",
+      "keyWords": "阿克赛钦"
+    },
+    {
+      "areaReplace": "西藏自治區，阿裏地區",
+      "areaReplaceExport": "阿裏地區，西藏自治區",
+      "keyWords": "阿克賽欽"
+    },
+    {
+      "areaReplace": "Ngari Prefecture,Tibet Autonomous Region",
+      "areaReplaceExport": "Ngari Prefecture,Tibet Autonomous Region",
+      "keyWords": "Aksai Chin"
+    },
+    {
+      "areaReplace": "西藏自治区，山南市",
+      "areaReplaceExport": "山南市，西藏自治区",
+      "keyWords": "藏南地区"
+    },
+    {
+      "areaReplace": "西藏自治區，山南市",
+      "areaReplaceExport": "山南市，西藏自治區",
+      "keyWords": "藏南地區"
+    },
+    {
+      "areaReplace": "Shannan City,Tibet Autonomous Region",
+      "areaReplaceExport": "Shannan City,Tibet Autonomous Region",
+      "keyWords": "south tibet"
+    },
+    {
+      "areaReplace": "西藏自治区，阿里地区",
+      "areaReplaceExport": "阿里地区，西藏自治区",
+      "keyWords": "巴里加斯"
+    },
+    {
+      "areaReplace": "Ngari Prefecture,Tibet Autonomous Region",
+      "areaReplaceExport": "Ngari Prefecture,Tibet Autonomous Region",
+      "keyWords": "Parigas"
+    },
+    {
+      "areaReplace": "西藏自治区，日喀则市",
+      "areaReplaceExport": "日喀则市，西藏自治区",
+      "keyWords": "鲁林争议区"
+    },
+    {
+      "areaReplace": "西藏自治區，日喀則市",
+      "areaReplaceExport": "日喀則市，西藏自治區",
+      "keyWords": "魯林爭議區"
+    },
+    {
+      "areaReplace": "西藏自治区，日喀则市",
+      "areaReplaceExport": "日喀则市，西藏自治区",
+      "keyWords": "洞郎争议区"
+    },
+    {
+      "areaReplace": "西藏自治區，日喀則市",
+      "areaReplaceExport": "日喀則市，西藏自治區",
+      "keyWords": "洞郎爭議區"
+    },
+    {
+      "areaReplace": "西藏自治区，日喀则市",
+      "areaReplaceExport": "日喀则市，西藏自治区",
+      "keyWords": "查玛浦争议区"
+    },
+    {
+      "areaReplace": "西藏自治區，日喀則市",
+      "areaReplaceExport": "日喀則市，西藏自治區",
+      "keyWords": "查瑪浦爭議區"
+    },
+    {
+      "areaReplace": "西藏自治区，日喀则市",
+      "areaReplaceExport": "日喀则市，西藏自治区",
+      "keyWords": "基伍争议区"
+    },
+    {
+      "areaReplace": "西藏自治區，日喀則市",
+      "areaReplaceExport": "日喀則市，西藏自治區",
+      "keyWords": "基伍爭議區"
+    },
+    {
+      "areaReplace": "四川省，甘孜藏族自治州",
+      "areaReplaceExport": "甘孜藏族自治州，四川省",
+      "keyWords": "白玉争议区"
+    },
+    {
+      "areaReplace": "四川省，甘孜藏族自治州",
+      "areaReplaceExport": "甘孜藏族自治州，四川省",
+      "keyWords": "白玉爭議區"
+    },
+    {
+      "areaReplace": "西藏自治区，日喀则市",
+      "areaReplaceExport": "日喀则市，西藏自治区",
+      "keyWords": "墨拉萨丁争议区"
+    },
+    {
+      "areaReplace": "西藏自治區，日喀則市",
+      "areaReplaceExport": "日喀則市，西藏自治區",
+      "keyWords": "墨拉薩丁爭議區"
+    },
+    {
+      "areaReplace": "海南省，三沙市",
+      "areaReplaceExport": "海南省",
+      "keyWords": "南沙群岛"
+    },
+    {
+      "areaReplace": "海南省",
+      "areaReplaceExport": "海南省",
+      "keyWords": "南沙群島"
+    },
+    {
+      "areaReplace": "Hainan Province",
+      "areaReplaceExport": "Hainan Province",
+      "keyWords": "Spratly Islands"
+    },
+    {
+      "areaReplace": "القدس الشريف",
+      "areaReplaceExport": "القدس الشريف",
+      "keyWords": "القدس الشريف"
+    },
+    {
+      "areaReplace": "ירושלים",
+      "areaReplaceExport": "ירושלים",
+      "keyWords": "ירושלים"
+    },
+    {
+      "areaReplace": "Jerusalem",
+      "areaReplaceExport": "Jerusalem",
+      "keyWords": "Jerusalem"
+    },
+    {
+      "areaReplace": "Yerushalayim",
+      "areaReplaceExport": "Yerushalayim",
+      "keyWords": "Yerushalayim"
+    },
+    {
+      "areaReplace": "Yerushalaim",
+      "areaReplaceExport": "Yerushalaim",
+      "keyWords": "Yerushalaim"
+    },
+    {
+      "areaReplace": "القدس",
+      "areaReplaceExport": "القدس",
+      "keyWords": "القدس"
+    },
+    {
+      "areaReplace": "耶路撒冷",
+      "areaReplaceExport": "耶路撒冷",
+      "keyWords": "耶路撒冷"
+    },
+    {
+      "areaReplace": "查戈斯群岛",
+      "areaReplaceExport": "查戈斯群岛",
+      "keyWords": "查戈斯群岛"
+    },
+    {
+      "areaReplace": "查戈斯群島",
+      "areaReplaceExport": "查戈斯群島",
+      "keyWords": "查戈斯群島"
+    },
+    {
+      "areaReplace": "Chagos Archipelago",
+      "areaReplaceExport": "Chagos Archipelago",
+      "keyWords": "Chagos Archipelago"
+    },
+    {
+      "areaReplace": "南乔治亚",
+      "areaReplaceExport": "南乔治亚",
+      "keyWords": "南乔治亚"
+    },
+    {
+      "areaReplace": "南喬治亞",
+      "areaReplaceExport": "南喬治亞",
+      "keyWords": "南喬治亞"
+    },
+    {
+      "areaReplace": "South Georgia Islands",
+      "areaReplaceExport": "South Georgia Islands",
+      "keyWords": "South Georgia Islands"
+    },
+    {
+      "areaReplace": "South Georgia",
+      "areaReplaceExport": "South Georgia",
+      "keyWords": "South Georgia"
+    },
+    {
+      "areaReplace": "南桑威奇群岛",
+      "areaReplaceExport": "南桑威奇群岛",
+      "keyWords": "南桑威奇群岛"
+    },
+    {
+      "areaReplace": "南桑威奇群島",
+      "areaReplaceExport": "南桑威奇群島",
+      "keyWords": "南桑威奇群島"
+    },
+    {
+      "areaReplace": "South Sandwich Islands",
+      "areaReplaceExport": "South Sandwich Islands",
+      "keyWords": "South Sandwich Islands"
+    },
+    {
+      "areaReplace": "South Georgia and The South Sandwich Islands",
+      "areaReplaceExport": "South Georgia and The South Sandwich Islands",
+      "keyWords": "South Georgia and The South Sandwich Islands"
+    },
+    {
+      "areaReplace": "南乔治亚岛和南桑威奇群岛",
+      "areaReplaceExport": "南乔治亚岛和南桑威奇群岛",
+      "keyWords": "南乔治亚岛和南桑威奇群岛"
+    },
+    {
+      "areaReplace": "卡拉帕尼",
+      "areaReplaceExport": "卡拉帕尼",
+      "keyWords": "卡拉帕尼"
+    },
+    {
+      "areaReplace": "Kalapani",
+      "areaReplaceExport": "Kalapani",
+      "keyWords": "Kalapani"
+    },
+    {
+      "areaReplace": "利皮亚杜拉",
+      "areaReplaceExport": "利皮亚杜拉",
+      "keyWords": "利皮亚杜拉"
+    },
+    {
+      "areaReplace": "利皮亞杜拉",
+      "areaReplaceExport": "利皮亞杜拉",
+      "keyWords": "利皮亞杜拉"
+    },
+    {
+      "areaReplace": "Lipiadura",
+      "areaReplaceExport": "Lipiadura",
+      "keyWords": "Lipiadura"
+    },
+    {
+      "areaReplace": "利普勒赫",
+      "areaReplaceExport": "利普勒赫",
+      "keyWords": "利普勒赫"
+    },
+    {
+      "areaReplace": "Liplach",
+      "areaReplaceExport": "Liplach",
+      "keyWords": "Liplach"
+    },
+    {
+      "areaReplace": "Lipiadura",
+      "areaReplaceExport": "Lipiadura",
+      "keyWords": "Lipiadura"
+    },
+    {
+      "areaReplace": "苏斯塔",
+      "areaReplaceExport": "苏斯塔",
+      "keyWords": "苏斯塔"
+    },
+    {
+      "areaReplace": "蘇斯塔",
+      "areaReplaceExport": "蘇斯塔",
+      "keyWords": "蘇斯塔"
+    },
+    {
+      "areaReplace": "Susta",
+      "areaReplaceExport": "Susta",
+      "keyWords": "Susta"
+    },
+    {
+      "areaReplace": "Susta",
+      "areaReplaceExport": "Susta",
+      "keyWords": "Nawalparasi West Of Bardaghat Susta"
+    },
+    {
+      "areaReplace": "先生湾",
+      "areaReplaceExport": "先生湾",
+      "keyWords": "先生湾"
+    },
+    {
+      "areaReplace": "先生灣",
+      "areaReplaceExport": "先生灣",
+      "keyWords": "先生灣"
+    },
+    {
+      "areaReplace": "Sir Creek",
+      "areaReplaceExport": "Sir Creek",
+      "keyWords": "Sir Creek"
+    },
+    {
+      "areaReplace": "直布罗陀海峡",
+      "areaReplaceExport": "直布罗陀海峡",
+      "keyWords": "直布罗陀海峡"
+    },
+    {
+      "areaReplace": "直布羅陀海峽",
+      "areaReplaceExport": "直布羅陀海峽",
+      "keyWords": "直布羅陀海峽"
+    },
+    {
+      "areaReplace": "Gibraltar",
+      "areaReplaceExport": "Gibraltar",
+      "keyWords": "Gibraltar"
+    },
+    {
+      "areaReplace": "直布罗陀",
+      "areaReplaceExport": "直布罗陀",
+      "keyWords": "直布罗陀"
+    },
+    {
+      "areaReplace": "休达及梅利利亚",
+      "areaReplaceExport": "休达及梅利利亚",
+      "keyWords": "休达及梅利利亚"
+    },
+    {
+      "areaReplace": "休達及梅利利亞",
+      "areaReplaceExport": "休達及梅利利亞",
+      "keyWords": "休達及梅利利亞"
+    },
+    {
+      "areaReplace": "Melilla",
+      "areaReplaceExport": "Melilla",
+      "keyWords": "Melilla"
+    },
+    {
+      "areaReplace": "梅利利亚",
+      "areaReplaceExport": "梅利利亚",
+      "keyWords": "梅利利亚"
+    },
+    {
+      "areaReplace": "休达及梅利利亚",
+      "areaReplaceExport": "休达及梅利利亚",
+      "keyWords": "休达及梅利利亚"
+    },
+    {
+      "areaReplace": "奥利文萨",
+      "areaReplaceExport": "奥利文萨",
+      "keyWords": "奥利文萨"
+    },
+    {
+      "areaReplace": "奧利文薩",
+      "areaReplaceExport": "奧利文薩",
+      "keyWords": "奧利文薩"
+    },
+    {
+      "areaReplace": "Olivenza",
+      "areaReplaceExport": "Olivenza",
+      "keyWords": "Olivenza"
+    },
+    {
+      "areaReplace": "Olivença",
+      "areaReplaceExport": "Olivença",
+      "keyWords": "Olivença"
+    },
+    {
+      "areaReplace": "圣胡安河省",
+      "areaReplaceExport": "圣胡安河省",
+      "keyWords": "圣胡安河省"
+    },
+    {
+      "areaReplace": "聖胡安河省",
+      "areaReplaceExport": "聖胡安河省",
+      "keyWords": "聖胡安河省"
+    },
+    {
+      "areaReplace": "Río San Juan",
+      "areaReplaceExport": "Río San Juan",
+      "keyWords": "Río San Juan"
+    },
+    {
+      "areaReplace": "rio san juan",
+      "areaReplaceExport": "rio san juan",
+      "keyWords": "rio san juan"
+    },
+    {
+      "areaReplace": "Olivença",
+      "areaReplaceExport": "Olivença",
+      "keyWords": "Olivença"
+    },
+    {
+      "areaReplace": "米金戈岛",
+      "areaReplaceExport": "米金戈岛",
+      "keyWords": "米金戈岛"
+    },
+    {
+      "areaReplace": "米金戈島",
+      "areaReplaceExport": "米金戈島",
+      "keyWords": "米金戈島"
+    },
+    {
+      "areaReplace": "Migingo Island",
+      "areaReplaceExport": "Migingo Island",
+      "keyWords": "Migingo Island"
+    },
+    {
+      "areaReplace": "Remba岛",
+      "areaReplaceExport": "Remba岛",
+      "keyWords": "Remba岛"
+    },
+    {
+      "areaReplace": "Remba島",
+      "areaReplaceExport": "Remba島",
+      "keyWords": "Remba島"
+    },
+    {
+      "areaReplace": "Ilemba Island",
+      "areaReplaceExport": "Ilemba Island",
+      "keyWords": "Ilemba Island"
+    },
+    {
+      "areaReplace": "Sigulu岛",
+      "areaReplaceExport": "Sigulu岛",
+      "keyWords": "Sigulu岛"
+    },
+    {
+      "areaReplace": "Sigulu島",
+      "areaReplaceExport": "Sigulu島",
+      "keyWords": "Sigulu島"
+    },
+    {
+      "areaReplace": "Kisiwa cha Sigulu",
+      "areaReplaceExport": "Kisiwa cha Sigulu",
+      "keyWords": "Kisiwa cha Sigulu"
+    },
+    {
+      "areaReplace": "埃莱米三角",
+      "areaReplaceExport": "埃莱米三角",
+      "keyWords": "埃莱米三角"
+    },
+    {
+      "areaReplace": "埃萊米三角",
+      "areaReplaceExport": "埃萊米三角",
+      "keyWords": "埃萊米三角"
+    },
+    {
+      "areaReplace": "Ilemi Triangle",
+      "areaReplaceExport": "Ilemi Triangle",
+      "keyWords": "Ilemi Triangle"
+    },
+    {
+      "areaReplace": "埃姆斯河河口",
+      "areaReplaceExport": "埃姆斯河河口",
+      "keyWords": "埃姆斯河河口"
+    },
+    {
+      "areaReplace": "Ems",
+      "areaReplaceExport": "Ems",
+      "keyWords": "Ems"
+    },
+    {
+      "areaReplace": "多拉德湾西部",
+      "areaReplaceExport": "多拉德湾西部",
+      "keyWords": "多拉德湾西部"
+    },
+    {
+      "areaReplace": "多拉德灣西部",
+      "areaReplaceExport": "多拉德灣西部",
+      "keyWords": "多拉德灣西部"
+    },
+    {
+      "areaReplace": "Dollard Bay West",
+      "areaReplaceExport": "Dollard Bay West",
+      "keyWords": "Dollard Bay West"
+    },
+    {
+      "areaReplace": "特罗姆兰岛",
+      "areaReplaceExport": "特罗姆兰岛",
+      "keyWords": "特罗姆兰岛"
+    },
+    {
+      "areaReplace": "Île Tromelin",
+      "areaReplaceExport": "Île Tromelin",
+      "keyWords": "Île Tromelin"
+    },
+    {
+      "areaReplace": "特羅姆蘭島",
+      "areaReplaceExport": "特羅姆蘭島",
+      "keyWords": "特羅姆蘭島"
+    },
+    {
+      "areaReplace": "格洛里厄斯群岛",
+      "areaReplaceExport": "格洛里厄斯群岛",
+      "keyWords": "格洛里厄斯群岛"
+    },
+    {
+      "areaReplace": "格洛里厄斯群島",
+      "areaReplaceExport": "格洛里厄斯群島",
+      "keyWords": "格洛里厄斯群島"
+    },
+    {
+      "areaReplace": "Islas Glorieuses",
+      "areaReplaceExport": "Islas Glorieuses",
+      "keyWords": "Islas Glorieuses"
+    },
+    {
+      "areaReplace": "Îles Glorieuses",
+      "areaReplaceExport": "Îles Glorieuses",
+      "keyWords": "Îles Glorieuses"
+    },
+    {
+      "areaReplace": "印度礁",
+      "areaReplaceExport": "印度礁",
+      "keyWords": "印度礁"
+    },
+    {
+      "areaReplace": "Bassas da India",
+      "areaReplaceExport": "Bassas da India",
+      "keyWords": "Bassas da India"
+    },
+    {
+      "areaReplace": "Basse de Judie",
+      "areaReplaceExport": "Basse de Judie",
+      "keyWords": "Basse de Judie"
+    },
+    {
+      "areaReplace": "欧罗巴岛",
+      "areaReplaceExport": "欧罗巴岛",
+      "keyWords": "欧罗巴岛"
+    },
+    {
+      "areaReplace": "歐羅巴島",
+      "areaReplaceExport": "歐羅巴島",
+      "keyWords": "歐羅巴島"
+    },
+    {
+      "areaReplace": "Europa Island",
+      "areaReplaceExport": "Europa Island",
+      "keyWords": "Europa Island"
+    },
+    {
+      "areaReplace": "Île Europa",
+      "areaReplaceExport": "Île Europa",
+      "keyWords": "Île Europa"
+    },
+    {
+      "areaReplace": "新胡安岛",
+      "areaReplaceExport": "新胡安岛",
+      "keyWords": "新胡安岛"
+    },
+    {
+      "areaReplace": "新胡安島",
+      "areaReplaceExport": "新胡安島",
+      "keyWords": "新胡安島"
+    },
+    {
+      "areaReplace": "Île Juan-de-Nova",
+      "areaReplaceExport": "Île Juan-de-Nova",
+      "keyWords": "Île Juan-de-Nova"
+    },
+    {
+      "areaReplace": "盖瑟礁",
+      "areaReplaceExport": "盖瑟礁",
+      "keyWords": "盖瑟礁"
+    },
+    {
+      "areaReplace": "蓋瑟礁",
+      "areaReplaceExport": "蓋瑟礁",
+      "keyWords": "蓋瑟礁"
+    },
+    {
+      "areaReplace": "Banc du Geyser",
+      "areaReplaceExport": "Banc du Geyser",
+      "keyWords": "Banc du Geyser"
+    },
+    {
+      "areaReplace": "马约特",
+      "areaReplaceExport": "马约特",
+      "keyWords": "马约特"
+    },
+    {
+      "areaReplace": "馬約特",
+      "areaReplaceExport": "馬約特",
+      "keyWords": "馬約特"
+    },
+    {
+      "areaReplace": "Mayotte",
+      "areaReplaceExport": "Mayotte",
+      "keyWords": "Mayotte"
+    },
+    {
+      "areaReplace": "Maore",
+      "areaReplaceExport": "Maore",
+      "keyWords": "Maore"
+    },
+    {
+      "areaReplace": "Mahori",
+      "areaReplaceExport": "Mahori",
+      "keyWords": "Mahori"
+    },
+    {
+      "areaReplace": "Mayotte",
+      "areaReplaceExport": "Mayotte",
+      "keyWords": "Mamoudzou-1"
+    },
+    {
+      "areaReplace": "Mayotte",
+      "areaReplaceExport": "Mayotte",
+      "keyWords": "Mamoudzou"
+    },
+    {
+      "areaReplace": "图兹拉岛",
+      "areaReplaceExport": "图兹拉岛",
+      "keyWords": "图兹拉岛"
+    },
+    {
+      "areaReplace": "圖茲拉島",
+      "areaReplaceExport": "圖茲拉島",
+      "keyWords": "圖茲拉島"
+    },
+    {
+      "areaReplace": "Tuzla Spit Island",
+      "areaReplaceExport": "Tuzla Spit Island",
+      "keyWords": "Tuzla Spit Island"
+    },
+    {
+      "areaReplace": "哈拉伊卜三角区",
+      "areaReplaceExport": "哈拉伊卜三角区",
+      "keyWords": "哈拉伊卜三角区"
+    },
+    {
+      "areaReplace": "哈拉伊卜三角區",
+      "areaReplaceExport": "哈拉伊卜三角區",
+      "keyWords": "哈拉伊卜三角區"
+    },
+    {
+      "areaReplace": "Hala'ib Triangle",
+      "areaReplaceExport": "Hala'ib Triangle",
+      "keyWords": "Hala'ib Triangle"
+    },
+    {
+      "areaReplace": "مثلث حلايب",
+      "areaReplaceExport": "مثلث حلايب",
+      "keyWords": "مثلث حلايب"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="super_text_eMail_popupWindow_items">
+        <item>@string/mail_dialog_items_send_mail</item>
+        <item>@string/mail_dialog_items_mail_address</item>
+        <item>@string/mail_dialog_items_copy_mail_address</item>
+    </string-array>
+    <string-array name="super_text_number_popupWindow_items">
+        <item>@string/phone_dialog_items_call_phone</item>
+        <item>@string/phone_dialog_items_send_message</item>
+        <item>@string/phone_dialog_items_save_phone</item>
+        <item>@string/phone_dialog_items_copy_number</item>
+    </string-array>
+</resources>

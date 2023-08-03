@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.coui.appcompat.cardlist.COUICardListSelectedItemLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/multiple_page_gesture_guide" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.viewpager2.widget.ViewPager2 android:id="@id/view_pager" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/guide_viewPage_marginTop" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+        <com.coui.appcompat.indicator.COUIPageIndicator android:layout_gravity="center|top" android:id="@id/cpi" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/guide_viewPage_indicator_marginTop" android:layout_marginBottom="@dimen/guide_viewPage_indicator_marginBottom" android:layout_below="@id/view_pager" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</com.coui.appcompat.cardlist.COUICardListSelectedItemLayout>

@@ -1,0 +1,323 @@
+{
+  "version": "1",
+  "areas": [
+    {
+      "areaCN": "西沙群岛",
+      "disputingParty": ["西沙群岛", "西沙群島", "Xisha Islands", "Paracel Islands","群島黄沙","Quần đảo Hoàng Sa"]
+    },
+    {
+      "areaCN": "黄岩岛",
+      "disputingParty": ["黄岩岛", "帕纳塔格礁", "民主礁", "帕纳塔格礁","Kulumpol ng Panatag","Karburo","Huangyan"]
+    },
+    {
+      "areaCN": "中沙群岛",
+      "disputingParty": ["中沙群岛", "中沙群島", "the Zhongsha Islands", "Macclesfield Bank"]
+    },
+    {
+      "areaCN": "中业岛",
+      "disputingParty": ["中业岛", "中業島", "Zhongye Island", "Pag-Asa Island","派格阿萨岛","邦阿西楠文","đảo Thị Tứ","島市肆"]
+    },
+    {
+      "areaCN": "金门岛",
+      "disputingParty": ["金门岛", "金門島", "Kinmen Island"]
+    },
+    {
+      "areaCN": "马祖岛",
+      "disputingParty": ["马祖岛", "馬祖島", "Matsu Islands"]
+    },
+    {
+      "areaCN": "东沙群岛",
+      "disputingParty": ["东沙群岛", "東沙群島", "Dongsha Islands"]
+    },
+    {
+      "areaCN": "钓鱼岛",
+      "disputingParty": ["钓鱼岛", "釣魚島", "魚釣島","Diaoyu Dao", "せんかくしょとう","うおつりしま"]
+    },
+    {
+      "areaCN": "赤尾屿",
+      "disputingParty": ["赤尾屿", "赤尾嶼", "大正島","たいしょうとう"]
+    },
+    {
+      "areaCN": "北部湾海上边界",
+      "disputingParty": ["北部湾海上边界", "Vịnh Bắc Bộ"]
+    },
+    {
+      "areaCN": "阿克赛钦",
+      "disputingParty": ["阿克赛钦", "阿克賽欽", "Aksai Chin", "अक्साई चिन","拉达克","लद्दाख़","Ladākh"],
+      "country": ["IN","CN"]
+    },
+    {
+      "areaCN": "藏南地区",
+      "disputingParty": ["藏南地区", "藏南地區", "south tibet", "अरुणाचल प्रदेश"],
+      "country": ["IN","CN"]
+    },
+    {
+      "areaCN": "巴里加斯",
+      "disputingParty": ["巴里加斯", "Demchok", "Parigas", "अरुणाचल प्रदेश"],
+      "country": ["IN","CN"]
+    },
+    {
+      "areaCN": "苏岩礁",
+      "disputingParty": ["苏岩礁", "蘇岩礁", "Suyan Islet", "Ieodo","離於島","이어도","波浪島","파랑도"],
+      "country": ["JP","CN","KP","KR"]
+    },
+    {
+      "areaCN": "日向礁",
+      "disputingParty": ["日向礁", "可居礁","가거초","Gageo Reef", "jeonranamdo","全罗南道","Sinan","新安郡","신안군","Sinan-gun","Heuksan-myeon","선워드 리프","거주 가능한 암초"],
+      "country": ["KR","CN"]
+    },
+    {
+      "areaCN": "鲁林争议区",
+      "disputingParty": ["鲁林争议区", "魯林爭議區"],
+      "country": ["BT","CN"]
+    },
+    {
+      "areaCN": "洞郎争议区",
+      "disputingParty": ["洞郎争议区", "洞郎爭議區", "Doklam", "གདོང་ལམ"],
+      "country": ["IN","CN"]
+    },
+    {
+      "areaCN": "查玛浦争议区",
+      "disputingParty": ["查玛浦争议区", "查瑪浦爭議區"],
+      "country": ["BT","CN"]
+    },
+    {
+      "areaCN": "基伍争议区",
+      "disputingParty": ["基伍争议区", "基伍爭議區", "韦斯滕"],
+      "country": ["BT","CN"]
+    },
+    {
+      "areaCN": "白玉争议区",
+      "disputingParty": ["白玉争议区", "白玉爭議區"],
+      "country": ["BT","CN"]
+    },
+    {
+      "areaCN": "墨拉萨丁争议区",
+      "disputingParty": ["墨拉萨丁争议区", "墨拉薩丁爭議區", "Merag-Sagteng"]
+    },
+    {
+      "areaCN": "南沙群岛",
+      "disputingParty": ["三宝珑观察群礁","南沙群岛", "Spratly Islands", "Trường Sa Quần đảo","Quần đảo Trường Sa", "Kepulauan Spratly", "Gugusan Semarang Peninjau", "Kapuluan ng Kalayaan"]
+    },
+    {
+      "areaCN": "查戈斯群岛",
+      "disputingParty": ["查戈斯群岛", "查戈斯群島", "Chagos Archipelago"],
+      "country": ["GB","MU","IO"]
+    },
+    {
+      "areaCN": "费迪南德岛",
+      "disputingParty": ["费迪南德岛", "費迪南德島", "Ferdinandea", "Julia Island", "Ìsula Firdinandèa", "Isla Ferdinand", "ltalia","格拉汉姆岛","Graham Island","尤利亚岛","马扎拉","Mazara","Dimazara","di Mazara"],
+      "country": ["GB","FR","IT","ES"]
+    },
+    {
+      "areaCN": "马尔维纳斯群岛",
+      "disputingParty": ["马尔维纳斯群岛", "馬爾維納斯群島", "Falkland Islands", "Islas Malvinas","福克兰群岛","福克兰群岛（即马尔维纳斯群岛）","Falkland Islands (Islas Malvinas)","斯坦利","Stanley"],
+      "country": ["GB","AR","FK"]
+    },
+    {
+      "areaCN": "南乔治亚",
+      "disputingParty": ["南乔治亚", "南喬治亞", "South Georgia Islands", "South Georgia","斯坦利","Stanley"],
+      "country": ["GB","AR","GS"]
+    },
+    {
+      "areaCN": "南桑威奇群岛",
+      "disputingParty": ["南桑威奇群岛", "南桑威奇群島", "South Sandwich Islands","南乔治亚岛和南桑威奇群岛","South Georgia and The South Sandwich Islands"],
+      "country": ["GB","AR","GS"]
+    },
+    {
+      "areaCN": "卡拉帕尼",
+      "disputingParty": ["卡拉帕尼", "Kalapani", "uttaranchal","格尔县","楚拉县","Pithoragarh","पिथौर'ग्रह","皮托拉加尔"],
+      "country": ["IN","NP"]
+    },
+    {
+      "areaCN": "利皮亚杜拉",
+      "disputingParty": ["利皮亚杜拉", "利皮亞杜拉", "Lipiadura","比托拉格尔","पथरगढजल","Bitolager"],
+      "country": ["IN","NP"]
+    },
+    {
+      "areaCN": "里普尔凯",
+      "disputingParty": ["里普尔凯", "Ripourke", "里普爾凱"]
+    },
+    {
+      "areaCN": "卡拉巴尼",
+      "disputingParty": ["卡拉巴尼", "Calabani", "Карабани"]
+    },
+    {
+      "areaCN": "利普勒赫",
+      "disputingParty": ["利普勒赫", "iplach", "uttaranchal","比托拉格尔","पथरगढजल","Bitolager"],
+      "country": ["IN","NP"]
+    },
+    {
+      "areaCN": "苏斯塔",
+      "disputingParty": ["苏斯塔", "蘇斯塔", "Susta", "Pashchimanchal", "लुम्बिनी प्रदेश","Nawalparasi West Of Bardaghat Susta"],
+      "country":["IN","NP"]
+    },
+    {
+      "areaCN": "先生湾",
+      "disputingParty": ["先生湾", "先生灣", "Sir Creek","古吉拉特邦", "गुजरात", "Gujarat","غوجارات"],
+      "country":["IN","PK"]
+    },
+    {
+      "areaCN": "阿拉伯河",
+      "disputingParty": ["شط العرب", "阿拉伯河", "اروندرود","法奥","AI faw","巴士拉","Basra","Al Faw","阿巴丹","亚巴丹","عبادان","آبادان","abandan","Abadan","霍拉姆沙赫尔"],
+      "country":["IQ","IR"]
+    },
+    {
+      "areaCN": "舍巴农场",
+      "disputingParty": ["مزارع شبعا", "Šib‘ā","חוות","Havot Sheba'a"," הר דוב，Har Do","舍巴农场", "舍巴農場", "Shebaa farms", "Qunaytirah", "חוות שבעא","القنيطرة","Kunetra","קונטרה","库奈特拉","汗阿尔纳巴","采法特"],
+      "country":["SY","LB"]
+    },
+    {
+      "areaCN": "伊米亚群岛",
+      "disputingParty": ["伊米亚群岛", "伊米亞群島", "Imia Island", "Kardak","Imia"],
+      "country":["GR","TR"]
+    },
+    {
+      "areaCN": "西撒哈拉",
+      "disputingParty": ["Aṣ-Ṣaḥrā","al-Gharbīyah","Sahara Occidental","Western Sahara","西撒哈拉", "الصحراء الغربية", "Sáhara Occidental", "Taneẓroft Tutrimt", "The Sahrawi Arab Democratic Republic","Oued ed Cahab-Lagouira"]
+    },
+    {
+      "areaCN": "直布罗陀海峡",
+      "disputingParty": ["直布罗陀海峡", "直布羅陀海峽", "Gibraltar","直布罗陀"],
+      "country":["ES","GB"]
+    },
+    {
+      "areaCN": "休达及梅利利亚",
+      "disputingParty": ["休达及梅利利亚", "休達及梅利利亞", "Ceuta", "Ceuta Melilla", "Ciudad Autónoma de Ceuta", "梅利利亚", "Melilla","Sebta","Sabtah","سبتة"],
+      "country":["ES","MA"]
+    },
+    {
+      "areaCN": "独岛",
+      "disputingParty": ["Dokdo","独岛", "獨島", "Rochers de Liancourt", "독도", "たけしま", "Gyeongsangbugdo","竹岛","竹島","Takeshima","利扬库尔岩","里昂科礁"],
+      "country":["JP","KR","KP"]
+    },
+    {
+      "areaCN": "奥利文萨",
+      "disputingParty": ["奥利文萨", "奧利文薩", "Olivenza","Olivença", "Badajoz","Extremadura","埃斯特雷马杜拉"],
+      "country":["ES","PT"]
+    },
+    {
+      "areaCN": "圣胡安河省",
+      "disputingParty": ["圣胡安河省","聖胡安河省", "Río San Juan","rio san juan", "里奥圣胡安"],
+      "country":["NI","CR"]
+    },
+    {
+      "areaCN": "南达尔帕蒂岛",
+      "disputingParty": ["南达尔帕蒂岛", "南達爾帕蒂島", "South Talpatti Island", "দক্ষিণ তালপট্টি দ্বীপ", "दक्षिण तालपटि द्वीप", "বাংলাদেশ", "बांग्लादेश","新摩尔岛","新穆尔岛","新穆爾島","普尔巴沙岛","Purbasa","普爾巴沙島","夏穆纳戈","shyamnagar","南24区县","শ্যামনগর"],
+      "country":["BD","IN"]
+    },
+    {
+      "areaCN": "米金戈岛",
+      "disputingParty": ["米金戈岛", "米金戈島", "Migingo Island","Migingo", "Nyanza","尼安扎"],
+      "country":["KE","UG"]
+    },
+    {
+      "areaCN": "Remba岛",
+      "disputingParty": ["Remba岛", "Ilemba Island","Remba島", "Remba", "Nyanza", "Homa Bay County","霍马贝","尼安扎"],
+      "country":["KE","UG"]
+    },
+    {
+      "areaCN": "Sigulu岛",
+      "disputingParty": ["Sigulu岛", "Kisiwa cha Sigulu","Sigulu島", "Sigulu", "Nyanza", "Namayingo","纳马英戈","纳马因戈区","尼安札","尼安扎","东方省","Eastern","Oriental Province"],
+      "country":["KE","UG"]
+    },
+    {
+      "areaCN": "维多利亚湖沿岸小岛",
+      "disputingParty": ["维多利亚湖沿岸小岛", "維多利亞湖沿岸小島", "Lake Victoria", "Victoria Nyanza"]
+    },
+    {
+      "areaCN": "埃莱米三角",
+      "disputingParty": ["埃莱米三角", "埃萊米三角", "Ilemi Triangle", "Rift Valley"],
+      "country":["ET","SS","KE"]
+    },
+    {
+      "areaCN": "埃姆斯河河口",
+      "disputingParty": ["Ems", "Eems","埃姆登","Emden","阿平厄丹","Appingerdan"],
+      "country": ["NL","DE"]
+    },
+    {
+      "areaCN": "多拉德湾西部",
+      "disputingParty": ["多拉德湾西部", "多拉德灣西部", "Dollard Bay West","Dokkard"],
+      "country": ["NL","DE"]
+    },
+    {
+      "areaCN": "特罗姆兰岛",
+      "disputingParty": ["特罗姆兰岛", "Île Tromelin", "特羅姆蘭島", "le Tromelin"],
+      "country": ["FR","MU","SC"]
+    },
+    {
+      "areaCN": "格洛里厄斯群岛",
+      "disputingParty": ["格洛里厄斯群岛", "格洛里厄斯群島", "Îles Glorieuses", "Islas Glorieuses"],
+      "country": ["FR","MG","SC"]
+    },
+    {
+      "areaCN": "印度礁",
+      "disputingParty": ["印度礁", "Basse de Judie", "Bassas da India"],
+      "country": ["FR","MG"]
+    },
+    {
+      "areaCN": "欧罗巴岛",
+      "disputingParty": ["欧罗巴岛", "歐羅巴島", "Europa Island","Île Europa"],
+      "country": ["FR","MG"]
+    },
+    {
+      "areaCN": "新胡安岛",
+      "disputingParty": ["新胡安岛", "新胡安島", "Île Juan-de-Nova"],
+      "country": ["FR","MG"]
+    },
+    {
+      "areaCN": "盖瑟礁",
+      "disputingParty": ["盖瑟礁","蓋瑟礁", "Banc du Geyser"],
+      "country": ["FR","KM"]
+    },
+    {
+      "areaCN": "马约特",
+      "disputingParty": ["马约特", "馬約特", "Mayotte", "Maore", "Mahori","Mamoudzou-1","Mamoudzou"],
+      "country": ["FR","KM","YT"]
+    },
+    {
+      "areaCN": "南千岛群岛",
+      "disputingParty": ["南千岛群岛","Кунашир","Итуруп","Хабомай","Шикотан","国後島","択捉島","歯舞群島","色丹島", "くなしりとう","はぼまいぐんとう","しこたんとう","えとろふとう","南千島群島", "Южный Курильские острова", "ほっぽうよんとう、ほっぽうりょうど、ほっぽうよんとう", "Sakhalinskaya","北方四岛","北の4つの島"],
+      "country": ["RU","JP"]
+    },
+    {
+      "areaCN": "图兹拉岛",
+      "disputingParty": ["图兹拉岛", "圖茲拉島", "Tuzla Spit Island", "ТузлаТузла", "острів"],
+      "country": ["RU","UA"]
+    },
+    {
+      "areaCN": "刻赤海峡",
+      "disputingParty": ["刻赤海峡", "Керченский пролив", "Керченська протока", "Keriç boğazı"],
+      "country": ["RU","UA"]
+    },
+    {
+      "areaCN": "克里米亚",
+      "disputingParty": ["克里米亚", "克里米亞", "respublika krym", "Crimea Republic", "Кры́мский полуо́стров", "Кримський півострів", "Къырымярымадасы, Qırım yarımadası"],
+      "country": ["RU","UA"]
+    },
+    {
+      "areaCN": "伊万哥罗德",
+      "disputingParty": ["伊万哥罗德", "伊万哥羅德", "Ивангород", "Jaanilinn", "Leningradskaya","Ivangorod"],
+      "country": ["RU","EE"]
+    },
+    {
+      "areaCN": "克什米尔",
+      "disputingParty": ["克什米尔", "克什米爾", "Kashmir Valley", "jammu and kashmir" ,"कश्मीर", "کشمیر"],
+      "country": ["PK","IN"]
+    },
+    {
+      "areaCN": "哈拉伊卜三角区",
+      "disputingParty": ["مثلث حلايب","哈拉伊卜三角区", "哈拉伊卜三角區", "Al Bahr al Ahmar", "Hala'ib Triangle", "مثلث حلايب"],
+      "country": ["EG","SD"]
+    },
+    {
+      "areaCN": "耶路撒冷",
+      "disputingParty": ["القدس الشريف", "ירושלים", "Yerushalayim", "Yerushalaim", "耶路撒冷", "Jerusalem", "Palestinian Territory","القدس"],
+      "country": ["IL","PS"]
+    },
+    {
+      "areaCN": "瓦迪哈勒法尖角",
+      "disputingParty": ["瓦迪哈勒法尖角","وادي حلفا"]
+    }
+  ]
+}

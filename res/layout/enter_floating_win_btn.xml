@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.supertext.core.view.ExtractionIconView android:id="@id/enter_floating_win_btn" android:background="@drawable/common_button_bg" android:layout_width="@dimen/enter_floating_win_btn_width" android:layout_height="@dimen/enter_floating_win_btn_height" android:src="@drawable/detected_text_btn"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

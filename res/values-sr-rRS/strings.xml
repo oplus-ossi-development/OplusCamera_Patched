@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tx_cancel">Otkaži</string>
+    <string name="tx_download_cancel">Preuzimanje je otkazano</string>
+    <string name="tx_download_fail">Preuzimanje nije uspelo</string>
+    <string name="tx_download_progress_tips">%s preuzeto</string>
+    <string name="tx_download_url_error">Greška veze za preuzimanje</string>
+    <string name="tx_install">Instaliraj</string>
+    <string name="tx_insuff_storage_space">Nedovoljno prostora</string>
+    <string name="tx_know">Razumem</string>
+    <string name="tx_load_fail">Učitavanje Platforme za mobilne usluge nije uspelo. Proverite mrežnu vezu.</string>
+    <string name="tx_mobile_service">·Platforma za mobilne usluge</string>
+    <string name="tx_no_app_tip">Morate da instalirate najnoviju verziju sledećeg softvera da biste pristupili ovoj usluzi.</string>
+    <string name="tx_sure">Preuzmi</string>
+    <string name="tx_verify_fail">Preuzimanje APK datoteke uspelo. Preuzeti ponovo?</string>
+</resources>

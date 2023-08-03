@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Eliminar %1$d elementos</item>
+        <item quantity="one">Eliminar %1$d elemento</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">Se seleccionaron %1$d</item>
+        <item quantity="one">Se seleccionó %1$d</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d nueva notificación</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">Se seleccionaron %1$d calcomanías</item>
+        <item quantity="one">Se seleccionó %1$d calcomanía</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Puede grabar hasta %d minutos de video 4k a 120 fps</item>
+        <item quantity="one">Puede grabar hasta %d minuto de video 4k a 120 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Puede grabar hasta %d minutos de video de 8k a 24 fps</item>
+        <item quantity="one">Puede grabar hasta %d minuto de video de 8k a 24 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Puede grabar hasta %d minutos de video 8k a 30 fps</item>
+        <item quantity="one">Puede grabar hasta %d minuto de video 8k a 30 fps</item>
+    </plurals>
+</resources>

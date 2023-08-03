@@ -1,0 +1,82 @@
+.class Lcom/oplus/camera/common/view/CameraSeekBar$26;
+.super Landroid/animation/AnimatorListenerAdapter;
+.source "CameraSeekBar.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/oplus/camera/common/view/CameraSeekBar;->j()V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Lcom/oplus/camera/common/view/CameraSeekBar;
+
+
+# direct methods
+.method constructor <init>(Lcom/oplus/camera/common/view/CameraSeekBar;)V
+    .locals 0
+
+    .line 770
+    iput-object p1, p0, Lcom/oplus/camera/common/view/CameraSeekBar$26;->a:Lcom/oplus/camera/common/view/CameraSeekBar;
+
+    invoke-direct {p0}, Landroid/animation/AnimatorListenerAdapter;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onAnimationCancel(Landroid/animation/Animator;)V
+    .locals 0
+
+    .line 783
+    invoke-super {p0, p1}, Landroid/animation/AnimatorListenerAdapter;->onAnimationCancel(Landroid/animation/Animator;)V
+
+    return-void
+.end method
+
+.method public onAnimationEnd(Landroid/animation/Animator;)V
+    .locals 1
+
+    .line 773
+    invoke-super {p0, p1}, Landroid/animation/AnimatorListenerAdapter;->onAnimationEnd(Landroid/animation/Animator;)V
+
+    .line 774
+    iget-object p1, p0, Lcom/oplus/camera/common/view/CameraSeekBar$26;->a:Lcom/oplus/camera/common/view/CameraSeekBar;
+
+    const/4 v0, 0x0
+
+    invoke-virtual {p1, v0}, Lcom/oplus/camera/common/view/CameraSeekBar;->setStatus(I)V
+
+    .line 775
+    iget-object p1, p0, Lcom/oplus/camera/common/view/CameraSeekBar$26;->a:Lcom/oplus/camera/common/view/CameraSeekBar;
+
+    const/4 v0, 0x0
+
+    iput v0, p1, Lcom/oplus/camera/common/view/CameraSeekBar;->J:F
+
+    .line 776
+    iget-object p1, p0, Lcom/oplus/camera/common/view/CameraSeekBar$26;->a:Lcom/oplus/camera/common/view/CameraSeekBar;
+
+    const/high16 v0, 0x3f800000    # 1.0f
+
+    iput v0, p1, Lcom/oplus/camera/common/view/CameraSeekBar;->I:F
+
+    .line 777
+    iget-object p1, p0, Lcom/oplus/camera/common/view/CameraSeekBar$26;->a:Lcom/oplus/camera/common/view/CameraSeekBar;
+
+    iput v0, p1, Lcom/oplus/camera/common/view/CameraSeekBar;->K:F
+
+    .line 778
+    iget-object p0, p0, Lcom/oplus/camera/common/view/CameraSeekBar$26;->a:Lcom/oplus/camera/common/view/CameraSeekBar;
+
+    invoke-virtual {p0}, Lcom/oplus/camera/common/view/CameraSeekBar;->postInvalidate()V
+
+    return-void
+.end method

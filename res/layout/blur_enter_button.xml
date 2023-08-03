@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.camera.coui.view.RotateAnimationView android:id="@id/blur_enter_button" android:background="@drawable/blur_menu_control_button_background" android:visibility="gone" android:layout_width="@dimen/blur_enter_button_width" android:layout_height="@dimen/blur_enter_button_width" android:layout_marginBottom="@dimen/blur_enter_button_margin_bottom" android:src="@drawable/blur_menu_control_button" android:layout_above="@id/control_panel_layout" android:contentDescription="@string/camera_description_effect_menu_popup" android:layout_marginStart="@dimen/blur_enter_button_margin_start" android:layout_alignParentStart="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

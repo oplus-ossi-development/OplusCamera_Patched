@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.camera.widget.GuideTextView android:textSize="@dimen/camera_text_size_big" android:textStyle="bold" android:textColor="@color/color_white_with_full_percent_transparency" android:id="@id/guide_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/starry_guide_title_description_margin_top" android:text="@string/scene_dolly_zoom_title" android:layout_marginStart="@dimen/starry_guide_sub_title_description_padding" android:layout_marginEnd="@dimen/starry_guide_sub_title_description_padding" />
+    <com.oplus.camera.feature.starry.view.StarryGuideVideoItemView android:id="@id/guide_video_item" android:background="@drawable/guide_item_background_starry" android:layout_width="@dimen/common_bottom_guide_common_image_width" android:layout_height="@dimen/common_bottom_guide_common_image_height" android:layout_marginTop="@dimen/common_bottom_guide_fast_video_image_margin_top" android:layout_below="@id/guide_item_title" android:clipToOutline="true" />
+</RelativeLayout>

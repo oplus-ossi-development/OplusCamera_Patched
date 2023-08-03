@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Удалить элементы: %1$d</item>
+        <item quantity="one">Удалить %1$d элемент</item>
+        <item quantity="few">Удалить %1$d элемента</item>
+        <item quantity="many">Удалить %1$d элементов</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">Выбрано %1$d элементов</item>
+        <item quantity="one">Выбран %1$d элемент</item>
+        <item quantity="few">Выбрано %1$d элемента</item>
+        <item quantity="many">Выбрано %1$d элементов</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового уведомления</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">Новых уведомлений: %d</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">Выбрано %1$d стикеров</item>
+        <item quantity="one">Выбран %1$d стикер</item>
+        <item quantity="few">Выбрано %1$d стикера</item>
+        <item quantity="many">Выбрано %1$d стикеров</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Можно записать не более %d минут видео в формате 4K с частотой 120 кадр/с</item>
+        <item quantity="one">Можно записать не более %d минуты видео в формате 4K с частотой 120 кадр/с</item>
+        <item quantity="few">Можно записать не более %d минут видео в формате 4K с частотой 120 кадр/с</item>
+        <item quantity="many">Можно записать не более %d минут видео в формате 4K с частотой 120 кадр/с</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Можно записать не более %d минут видео в формате 8K с частотой 24 кадр/с</item>
+        <item quantity="one">Можно записать не более %d минуты видео в формате 8K с частотой 24 кадр/с</item>
+        <item quantity="few">Можно записать не более %d минут видео в формате 8K с частотой 24 кадр/с</item>
+        <item quantity="many">Можно записать не более %d минут видео в формате 8K с частотой 24 кадр/с</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Можно записать не более %d минут видео в формате 8K с частотой 30 кадр/с</item>
+        <item quantity="one">Можно записать не более %d минуты видео в формате 8K с частотой 30 кадр/с</item>
+        <item quantity="few">Можно записать не более %d минут видео в формате 8K с частотой 30 кадр/с</item>
+        <item quantity="many">Можно записать не более %d минут видео в формате 8K с частотой 30 кадр/с</item>
+    </plurals>
+</resources>

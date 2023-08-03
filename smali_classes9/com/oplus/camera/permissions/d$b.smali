@@ -1,0 +1,25 @@
+.class public interface abstract Lcom/oplus/camera/permissions/d$b;
+.super Ljava/lang/Object;
+.source "ExportPGrantUtil.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/oplus/camera/permissions/d;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "b"
+.end annotation
+
+
+# virtual methods
+.method public abstract a()V
+.end method
+
+.method public abstract a(Landroidx/appcompat/app/d;)V
+.end method
+
+.method public abstract a(Landroidx/appcompat/app/d;Z)V
+.end method

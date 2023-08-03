@@ -1,0 +1,32 @@
+.class public Lcom/oplus/camera/feature/movie/a/b$a;
+.super Landroidx/recyclerview/widget/RecyclerView$u;
+.source "FilmModeBarAdapter.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/oplus/camera/feature/movie/a/b;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1
+    name = "a"
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Lcom/oplus/camera/feature/movie/a/b;
+
+
+# direct methods
+.method public constructor <init>(Lcom/oplus/camera/feature/movie/a/b;Landroid/view/View;)V
+    .locals 0
+
+    .line 285
+    iput-object p1, p0, Lcom/oplus/camera/feature/movie/a/b$a;->a:Lcom/oplus/camera/feature/movie/a/b;
+
+    .line 286
+    invoke-direct {p0, p2}, Landroidx/recyclerview/widget/RecyclerView$u;-><init>(Landroid/view/View;)V
+
+    return-void
+.end method

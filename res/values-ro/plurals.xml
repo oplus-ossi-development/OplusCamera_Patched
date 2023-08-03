@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Ștergeți %1$d elemente</item>
+        <item quantity="one">Ștergeți %1$d element</item>
+        <item quantity="few">Ștergeți %1$d elemente</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectată</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">%1$d autocolante selectate</item>
+        <item quantity="one">%1$d sticker selectat</item>
+        <item quantity="few">%1$d autocolante selectate</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Puteți înregistra cel mult %d min de video 4K la 120 fps</item>
+        <item quantity="one">Puteți înregistra cel mult %d min de video 4K la 120 fps</item>
+        <item quantity="few">Puteți înregistra cel mult %d min de video 4K la 120 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Puteți înregistra până la %d minute de video 8K la 24 fps</item>
+        <item quantity="one">Puteți înregistra până la %d minut de video 8K la 24 fps</item>
+        <item quantity="few">Puteți înregistra până la %d minute de video 8K la 24 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Puteți înregistra cel mult %d min de video 8K la 30 fps</item>
+        <item quantity="one">Puteți înregistra cel mult %d min de video 8K la 30 fps</item>
+        <item quantity="few">Puteți înregistra cel mult %d min de video 8K la 30 fps</item>
+    </plurals>
+</resources>

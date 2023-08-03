@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">837055_Delete %1$d items</item>
+        <item quantity="zero">873992_Delete %1$d items</item>
+        <item quantity="one">166622_Delete %1$d item</item>
+        <item quantity="two">873995_Delete %1$d items</item>
+        <item quantity="few">873993_Delete %1$d items</item>
+        <item quantity="many">873994_Delete %1$d items</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">837056_%1$d selected</item>
+        <item quantity="zero">873996_%1$d selected</item>
+        <item quantity="one">166623_%1$d selected</item>
+        <item quantity="two">873999_%1$d selected</item>
+        <item quantity="few">873997_%1$d selected</item>
+        <item quantity="many">873998_%1$d selected</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">840948_%d new notifications</item>
+        <item quantity="zero">875908_%d new notifications</item>
+        <item quantity="one">840949_%d new notification</item>
+        <item quantity="two">875911_%d new notifications</item>
+        <item quantity="few">875909_%d new notifications</item>
+        <item quantity="many">875910_%d new notifications</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">836277_%1$d stickers selected</item>
+        <item quantity="zero">871988_%1$d stickers selected</item>
+        <item quantity="one">90483_%1$d sticker selected</item>
+        <item quantity="two">871991_%1$d stickers selected</item>
+        <item quantity="few">871989_%1$d stickers selected</item>
+        <item quantity="many">871990_%1$d stickers selected</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">889326_You can record up to %d minutes of 4K video at 120 fps</item>
+        <item quantity="zero">889328_You can record up to %d minutes of 4K video at 120 fps</item>
+        <item quantity="one">889327_You can record up to %d minute of 4K video at 120 fps</item>
+        <item quantity="two">889330_You can record up to %d minutes of 4K video at 120 fps</item>
+        <item quantity="few">889329_You can record up to %d minutes of 4K video at 120 fps</item>
+        <item quantity="many">889331_You can record up to %d minutes of 4K video at 120 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">900150_You can record up to %d minutes of 8K video at 24 fps</item>
+        <item quantity="zero">900152_You can record up to %d minutes of 8K video at 24 fps</item>
+        <item quantity="one">900151_You can record up to %d minute of 8K video at 24 fps</item>
+        <item quantity="two">900154_You can record up to %d minutes of 8K video at 24 fps</item>
+        <item quantity="few">900153_You can record up to %d minutes of 8K video at 24 fps</item>
+        <item quantity="many">900155_You can record up to %d minutes of 8K video at 24 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">889332_You can record up to %d minutes of 8K video at 30 fps</item>
+        <item quantity="zero">889334_You can record up to %d minutes of 8K video at 30 fps</item>
+        <item quantity="one">889333_You can record up to %d minute of 8K video at 30 fps</item>
+        <item quantity="two">889336_You can record up to %d minutes of 8K video at 30 fps</item>
+        <item quantity="few">889335_You can record up to %d minutes of 8K video at 30 fps</item>
+        <item quantity="many">889337_You can record up to %d minutes of 8K video at 30 fps</item>
+    </plurals>
+</resources>

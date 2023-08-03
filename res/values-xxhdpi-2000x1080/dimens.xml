@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="effects_menu_margin_top">420.0dip</dimen>
+    <dimen name="effects_menu_title_margin_top">504.5dip</dimen>
+    <dimen name="face_beauty_common_seekbar_height">133.0dip</dimen>
+    <dimen name="face_beauty_common_seekbar_width">340.0dip</dimen>
+    <dimen name="face_beauty_custom_seekbar_height">133.0dip</dimen>
+    <dimen name="face_beauty_custom_seekbar_margin_right">40.0dip</dimen>
+    <dimen name="face_beauty_custom_seekbar_width">340.0dip</dimen>
+    <dimen name="face_beauty_custom_tab_text_height">28.0dip</dimen>
+    <dimen name="face_beauty_custom_tab_text_left_right_spacing">15.0dip</dimen>
+    <dimen name="face_beauty_custom_tab_text_margin_start">20.0dip</dimen>
+    <dimen name="face_beauty_custom_tab_top_margin">1.0dip</dimen>
+    <dimen name="face_beauty_custom_text_padding_top">35.0dip</dimen>
+    <dimen name="face_beauty_item_margin_top">6.0dip</dimen>
+    <dimen name="face_beauty_recycler_view_margin_top">133.0dip</dimen>
+    <dimen name="face_beauty_reset_item_margin_left">0.0dip</dimen>
+    <dimen name="face_beauty_seekbar_margin_top">0.0dip</dimen>
+    <dimen name="main_mode_bar_item_title_image_margin_top_rotated">4.0dip</dimen>
+    <dimen name="main_mode_bar_item_value_text_margin_top_rotated">50.0dip</dimen>
+    <dimen name="movie_mode_back_right">32.0dip</dimen>
+    <dimen name="movie_mode_menu_margin_left">32.0dip</dimen>
+    <dimen name="movie_mode_params_item_right">4.0dip</dimen>
+    <dimen name="movie_mode_params_max_width">124.0dip</dimen>
+    <dimen name="movie_mode_params_mode_bar_container_height">78.0dip</dimen>
+    <dimen name="movie_mode_params_padding">12.0dip</dimen>
+    <dimen name="movie_mode_preview_corners_radius">20.0dip</dimen>
+    <dimen name="movie_mode_slide_margin_left">14.0dip</dimen>
+    <dimen name="movie_mode_slide_margin_right">20.329987dip</dimen>
+    <dimen name="movie_mode_thumbnail_left">17.839996dip</dimen>
+    <dimen name="movie_submenu_panel_height">208.0dip</dimen>
+    <dimen name="movie_submenu_panel_margin_left">-26.329987dip</dimen>
+    <dimen name="movie_submenu_panel_margin_top">170.0dip</dimen>
+    <dimen name="movie_submenu_panel_width">371.0dip</dimen>
+    <dimen name="panorama_rect_to_top">265.0dip</dimen>
+    <dimen name="sticker_shutter_button_translate_y">26.0dip</dimen>
+</resources>

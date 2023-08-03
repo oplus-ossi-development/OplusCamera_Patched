@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Löschen %1$d Elemente</item>
+        <item quantity="one">Löschen %1$d Element</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d neue Benachrichtigungen</item>
+        <item quantity="one">%d neue Benachrichtigung</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">%1$d Sticker ausgewählt</item>
+        <item quantity="one">%1$d Sticker ausgewählt</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Sie können bis zu %d Minuten 4K-Video mit 120 fps aufzeichnen</item>
+        <item quantity="one">Sie können bis zu %d Minute 4K-Video mit 120 fps aufzeichnen</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Sie können bis zu %d Minuten 8K-Video mit 24 fps aufzeichnen</item>
+        <item quantity="one">Sie können bis zu %d Minute 8K-Video mit 24 fps aufzeichnen</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Sie können bis zu %d Minuten 8K-Video mit 30 fps aufzeichnen</item>
+        <item quantity="one">Sie können bis zu %d Minute 8K-Video mit 30 fps aufzeichnen</item>
+    </plurals>
+</resources>

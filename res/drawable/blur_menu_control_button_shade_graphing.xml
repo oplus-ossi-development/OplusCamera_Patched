@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="21.0dip" android:width="21.0dip" android:viewportWidth="21.0" android:viewportHeight="21.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/selectable_inversable_icon_selector" android:pathData="M15.011,8.2006C12.2026,5.8579 9.0077,4.0171 5.5666,2.7624L5.2926,2.6625C6.9082,1.5419 8.87,0.8853 10.9851,0.8853C12.6728,0.8853 14.2628,1.3033 15.6573,2.0416L15.618,3.1482C15.5576,4.8502 15.3539,6.5402 15.011,8.2006Z" />
+    <path android:fillColor="@color/selectable_inversable_icon_selector" android:pathData="M17.0271,2.9163L17.0171,3.1979C16.8872,6.8588 16.1236,10.4667 14.763,13.862C16.4481,13.675 18.1182,13.3465 19.7555,12.878L20.8444,12.5665C20.9369,12.0199 20.9851,11.4582 20.9851,10.8853C20.9851,7.6325 19.4321,4.7425 17.0271,2.9163Z" />
+    <path android:fillColor="@color/selectable_inversable_icon_selector" android:pathData="M20.4445,14.1371L20.1406,14.224C16.619,15.2316 12.9521,15.6203 9.3029,15.3757C10.0012,16.9198 10.8295,18.406 11.7805,19.8178L12.4298,20.7817C16.1736,20.2399 19.246,17.6242 20.4445,14.1371Z" />
+    <path android:fillColor="@color/selectable_inversable_icon_selector" android:pathData="M10.8106,20.8838L10.6194,20.6C8.5732,17.5626 7.0705,14.1958 6.1755,10.6502C4.9223,11.7918 3.7643,13.0391 2.7151,14.3804L2.0044,15.289C3.6089,18.5547 6.9421,20.8176 10.8106,20.8838Z" />
+    <path android:fillColor="@color/selectable_inversable_icon_selector" android:pathData="M1.4096,13.7771C1.1335,12.8616 0.9851,11.8908 0.9851,10.8853C0.9851,8.0624 2.1547,5.5127 4.0358,3.6944L5.087,4.0777C6.6867,4.661 8.2307,5.3768 9.7036,6.2158C6.6074,8.1628 3.8692,10.6327 1.6124,13.5178L1.4096,13.7771Z" />
+</vector>

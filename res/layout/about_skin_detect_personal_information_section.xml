@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/skin_detect_personal_information_section" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/linearlayout_skin_detect" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_margin" android:translationY="-0.059999943sp" android:layout_marginStart="@dimen/common_margin" android:layout_marginEnd="@dimen/common_margin">
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/content_text_size" android:id="@id/third_business_function_scenarios" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/person_info_list_title_function_scenario" android:fontFamily="sans-serif-medium" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/content_line_height">
+            <TextView android:textSize="@dimen/content_text_size" android:id="@id/third_collection_purpose" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/person_info_list_title_purpose" android:fontFamily="sans-serif-medium" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_content_line_height">
+            <TextView android:textSize="@dimen/content_text_size" android:id="@id/third_collection_method" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/person_info_list_title_method" android:fontFamily="sans-serif-medium" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/content_line_height">
+            <TextView android:textSize="@dimen/content_text_size" android:id="@id/third_personal_information_collected" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/person_info_list_title_information" android:fontFamily="sans-serif-medium" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

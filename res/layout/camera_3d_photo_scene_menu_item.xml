@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="@dimen/camera_3d_photo_item_width" android:layout_height="@dimen/camera_3d_photo_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.camera.inverse.InverseBackgroundView android:layout_gravity="center" android:id="@id/camera_3d_photo_item_frame" android:background="@drawable/scene_item_bg_selector" android:clipChildren="true" android:layout_width="@dimen/camera_3d_photo_item_frame_width" android:layout_height="@dimen/camera_3d_photo_item_frame_height" android:scaleType="center">
+        <com.oplus.camera.feature.threedphoto.ui.GifView android:orientation="vertical" android:id="@id/camera_3d_photo_item_gif" android:layout_width="@dimen/camera_3d_photo_item_image_width" android:layout_height="@dimen/camera_3d_photo_item_image_height" android:layout_margin="@dimen/camera_3d_photo_item_image_margin" />
+    </com.oplus.camera.inverse.InverseBackgroundView>
+    <TextView android:textColor="@color/camera_3d_photo_guide_btn_resume_color" android:ellipsize="end" android:gravity="center|top" android:id="@id/camera_3d_photo_item_text" android:layout_width="@dimen/camera_3d_photo_item_text_width" android:layout_height="@dimen/camera_3d_photo_item_text_height" android:layout_marginTop="@dimen/camera_3d_photo_item_text_margin_top" android:maxLines="2" android:textAlignment="center" />
+</LinearLayout>

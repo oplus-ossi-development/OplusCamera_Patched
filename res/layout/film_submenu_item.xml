@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/submenu_item" android:background="@drawable/bg_camera_movie_submenu_item" android:layout_width="fill_parent" android:layout_height="@dimen/movie_drawer_height" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oplus.camera.common.view.OplusTextView android:textSize="@dimen/movie_submenu_item_title_text_size" android:textColor="@color/camera_white" android:id="@id/submenu_item_title" android:layout_width="wrap_content" android:layout_height="@dimen/movie_submenu_item_title_height" android:layout_marginTop="@dimen/movie_submenu_item_title_margin_top" android:layout_marginBottom="@dimen/movie_submenu_item_title_margin_bottom" android:layout_marginStart="@dimen/movie_submenu_item_title_margin_start" />
+    <LinearLayout android:layout_gravity="center|right" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/movie_submenu_item_title_margin_end">
+        <com.oplus.camera.common.view.RotatePressImageView android:id="@id/submenu_item_switch_off" android:background="@drawable/movie_mode_submenu_bg" android:layout_width="@dimen/movie_mode_menu_width" android:layout_height="@dimen/movie_mode_menu_height" app:animationType="1" />
+        <com.oplus.camera.common.view.RotatePressImageView android:id="@id/submenu_item_switch_on" android:background="@drawable/movie_mode_submenu_bg" android:layout_width="@dimen/movie_mode_menu_width" android:layout_height="@dimen/movie_mode_menu_height" android:layout_marginStart="@dimen/movie_submenu_item_switch_between" app:animationType="1" />
+    </LinearLayout>
+</FrameLayout>

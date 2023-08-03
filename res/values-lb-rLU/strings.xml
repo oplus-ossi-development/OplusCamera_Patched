@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caesura_sign">", "</string>
+    <string name="color_runtime_sslverify_cancel">Ofbriechen</string>
+    <string name="mobile_and_wlan_network_not_connect_str">\"Mobilfunkdaten\" aktivéieren oder Wi-Fi notzen, fir zouzegräifen</string>
+    <string name="no_network_connect_str">Keng Netzwierkverbindung</string>
+    <string name="sau_dialog_install_now">Installéieren</string>
+    <string name="sau_dialog_new_version">Nei Versioun erkannt</string>
+    <string name="sau_dialog_upgrade_exit">Erausgoen</string>
+    <string name="sau_dialog_upgrade_installing">Gëtt installéiert …</string>
+    <string name="sau_dialog_upgrade_later">Ofbriechen</string>
+    <string name="sau_dialog_upgrade_now">Aktualiséieren</string>
+</resources>

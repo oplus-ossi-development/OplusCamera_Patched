@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="watermark_visualization_imageView_margin_bottom">8.0dip</dimen>
+    <dimen name="watermark_visualization_margin_left_vertical">20.0dip</dimen>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caesura_sign">69070</string>
+    <string name="color_runtime_read_external_storage">122878</string>
+    <string name="color_runtime_read_phone_state">122877</string>
+    <string name="color_runtime_sslverify_cancel">14835_Cancel</string>
+    <string name="color_runtime_sslverify_continue">14842_Continue</string>
+    <string name="color_runtime_sslverify_msg">14841_There are problems with the security certificate for this site.</string>
+    <string name="color_runtime_sslverify_title">14843_Security warning</string>
+    <string name="color_runtime_warning_dialog_cancel">122869</string>
+    <string name="color_runtime_warning_dialog_disc">122874 %1$s %2$s</string>
+    <string name="color_runtime_warning_dialog_ok">122868</string>
+    <string name="color_runtime_warning_dialog_title">122875 %1$s</string>
+    <string name="fb_start_loading">4898</string>
+    <string name="feedback_app_name">122867</string>
+    <string name="mobile_and_wlan_network_not_connect_str">71139</string>
+    <string name="no_network_connect_str">71137</string>
+    <string name="sau_dialog_description_head">122159</string>
+    <string name="sau_dialog_downloaded_prompt">122150</string>
+    <string name="sau_dialog_install_later">122153</string>
+    <string name="sau_dialog_install_now">122152</string>
+    <string name="sau_dialog_mobile_propmt">122151</string>
+    <string name="sau_dialog_new_version">122155</string>
+    <string name="sau_dialog_size">122160</string>
+    <string name="sau_dialog_upgrade_exit">122154</string>
+    <string name="sau_dialog_upgrade_installing">126975</string>
+    <string name="sau_dialog_upgrade_later">122158</string>
+    <string name="sau_dialog_upgrade_now">122157</string>
+    <string name="sau_dialog_upgrade_running">122156</string>
+    <string name="sau_dialog_vername">122161</string>
+    <string name="user_network_remind_info">80138</string>
+</resources>

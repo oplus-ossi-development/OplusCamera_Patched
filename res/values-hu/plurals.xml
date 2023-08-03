@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">%1$d elem törlése</item>
+        <item quantity="one">%1$d elem törlése</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">%1$d matrica kijelölve</item>
+        <item quantity="one">%1$d matrica kijelölve</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Legfeljebb %d perc 4K videót rögzíthet 120 fps sebességgel</item>
+        <item quantity="one">Legfeljebb %d perc 4K videót rögzíthet 120 fps sebességgel</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Legfeljebb %d perc 8K videót rögzíthet 24 fps sebességgel</item>
+        <item quantity="one">Legfeljebb %d perc 8K videót rögzíthet 24 fps sebességgel</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Legfeljebb %d perc 8K videót rögzíthet 30 fps sebességgel</item>
+        <item quantity="one">Legfeljebb %d perc 8K videót rögzíthet 30 fps sebességgel</item>
+    </plurals>
+</resources>

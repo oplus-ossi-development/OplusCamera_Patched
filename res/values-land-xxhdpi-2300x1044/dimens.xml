@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="more_item_side_spacing">22.0dip</dimen>
+    <dimen name="more_recycle_margin_bottom_above_control_panel">20.0dip</dimen>
+    <dimen name="more_recycle_max_height_margin_top">101.0dip</dimen>
+    <dimen name="thumbnail_width_nomal">48.0dip</dimen>
+    <dimen name="values_h">1044.0px</dimen>
+    <dimen name="values_w">2300.0px</dimen>
+</resources>

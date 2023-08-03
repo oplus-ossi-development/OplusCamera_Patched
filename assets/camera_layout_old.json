@@ -1,0 +1,209 @@
+{
+  "layout_width": "match_parent",
+  "layout_height": "match_parent",
+  "package": "com.oplus.camera",
+  "layout_constraintHorizontal_chainStyle": "spread_inside",
+  "ignore": "ContentDescription",
+  "type": "constraint",
+  "child": [
+    {
+      "layout_width": "wrap_content",
+      "layout_height": "wrap_content",
+      "textSize": "14dp",
+      "layout_marginStart": "6dp",
+      "layout_constraintTop_toTopOf": "icon_camera",
+      "type": "text",
+      "textColor": "#FFFFFF",
+      "layout_constraintStart_toEndOf": "icon_camera",
+      "layout_constraintBottom_toBottomOf": "icon_camera",
+      "gravity": "center_horizontal|bottom",
+      "ignore": "SpUsage",
+      "id": "tv_camera",
+      "text": "@string/camera_app_name",
+      "translationZ": "3dp"
+    },
+    {
+      "layout_constraintEnd_toEndOf": "parent",
+      "layout_width": "206dp",
+      "layout_height": "390dp",
+      "layout_constraintBottom_toBottomOf": "parent",
+      "src": "@drawable/camera_card_bg_old",
+      "id": "camera_card_bg",
+      "layout_constraintTop_toTopOf": "parent",
+      "type": "image",
+      "translationZ": "1dp",
+      "layout_constraintStart_toStartOf": "parent",
+      "cornerRadius": "20dp"
+    },
+    {
+      "layout_width": "30dp",
+      "layout_height": "30dp",
+      "src": "@drawable/ic_launcher_camera",
+      "layout_marginStart": "8dp",
+      "id": "icon_camera",
+      "layout_constraintTop_toTopOf": "parent",
+      "type": "image",
+      "translationZ": "2dp",
+      "layout_constraintStart_toStartOf": "camera_card_portrait_mode",
+      "layout_marginTop": "26dp"
+    },
+    {
+      "layout_constraintEnd_toEndOf": "parent",
+      "layout_width": "190dp",
+      "layout_height": "90dp",
+      "background": "@drawable/camera_card_photo_bg_old",
+      "type": "constraint",
+      "layout_constraintStart_toStartOf": "parent",
+      "layout_marginBottom": "12dp",
+      "layout_constraintBottom_toTopOf": "camera_card_portrait_mode",
+      "id": "camera_card_photo_mode",
+      "translationZ": "4dp",
+      "onClick": [{
+        "action": "android.media.action.STILL_IMAGE_CAMERA_SECURE",
+        "packageName": "com.oplus.camera",
+        "type": "activity",
+        "params": {
+          "mode": 0,
+          "launchMode": "1"
+        },
+        "flag": "0x10000000|0x20000000|0x04000000"
+      }],
+      "child": [
+        {
+          "layout_width": "wrap_content",
+          "layout_height": "wrap_content",
+          "textSize": "18dp",
+          "layout_marginStart": "22dp",
+          "layout_constraintTop_toTopOf": "parent",
+          "type": "text",
+          "textColor": "#FFFFFF",
+          "layout_constraintStart_toStartOf": "parent",
+          "layout_constraintBottom_toBottomOf": "parent",
+          "gravity": "center_horizontal|bottom",
+          "ignore": "SpUsage",
+          "id": "camera_card_photo_mode_name",
+          "text": "@string/camera_mode_common"
+        },
+        {
+          "layout_constraintEnd_toEndOf": "parent",
+          "layout_width": "66dp",
+          "layout_height": "66dp",
+          "layout_constraintBottom_toBottomOf": "parent",
+          "layout_marginEnd": "12dp",
+          "src": "@drawable/camera_card_photo_icon_old",
+          "layout_constraintTop_toTopOf": "parent",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "layout_constraintEnd_toEndOf": "parent",
+      "layout_width": "190dp",
+      "layout_height": "90dp",
+      "background": "@drawable/camera_card_portrait_bg_old",
+      "layout_constraintTop_toTopOf": "parent",
+      "type": "constraint",
+      "layout_constraintStart_toStartOf": "parent",
+      "layout_marginTop": "166dp",
+      "id": "camera_card_portrait_mode",
+      "translationZ": "5dp",
+      "onClick": [{
+        "action": "android.media.action.STILL_IMAGE_CAMERA_SECURE",
+        "packageName": "com.oplus.camera",
+        "type": "activity",
+        "params": {
+          "mode": 2,
+          "launchMode": "1"
+        },
+        "flag": "0x10000000|0x20000000|0x04000000"
+      }],
+      "child": [
+        {
+          "layout_width": "wrap_content",
+          "layout_height": "wrap_content",
+          "textSize": "18dp",
+          "layout_marginStart": "22dp",
+          "layout_constraintTop_toTopOf": "parent",
+          "type": "text",
+          "textColor": "#FFFFFF",
+          "layout_constraintStart_toStartOf": "parent",
+          "layout_constraintBottom_toBottomOf": "parent",
+          "gravity": "center_horizontal|bottom",
+          "ignore": "SpUsage",
+          "id": "camera_card_portrait_mode_name",
+          "text": "@string/camera_mode_portrait"
+        },
+        {
+          "layout_constraintEnd_toEndOf": "parent",
+          "layout_width": "66dp",
+          "layout_height": "66dp",
+          "layout_constraintBottom_toBottomOf": "parent",
+          "layout_marginEnd": "12dp",
+          "src": "@drawable/camera_card_portrait_icon_old",
+          "layout_constraintTop_toTopOf": "parent",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "layout_constraintEnd_toEndOf": "parent",
+      "layout_width": "190dp",
+      "layout_height": "90dp",
+      "type": "constraint",
+      "layout_constraintStart_toStartOf": "parent",
+      "layout_marginTop": "12dp",
+      "layout_constraintTop_toBottomOf": "camera_card_portrait_mode",
+      "background": "@drawable/camera_card_video_bg_old",
+      "id": "camera_card_video_mode",
+      "translationZ": "6dp",
+      "onClick": [{
+        "action": "android.media.action.STILL_IMAGE_CAMERA_SECURE",
+        "packageName": "com.oplus.camera",
+        "type": "activity",
+        "params": {
+          "mode": 6,
+          "launchMode": "1"
+        },
+        "flag": "0x10000000|0x20000000|0x04000000"
+      }],
+      "child": [
+        {
+          "layout_width": "wrap_content",
+          "layout_height": "wrap_content",
+          "textSize": "18dp",
+          "layout_marginStart": "22dp",
+          "layout_constraintTop_toTopOf": "parent",
+          "type": "text",
+          "textColor": "#FFFFFF",
+          "layout_constraintStart_toStartOf": "parent",
+          "layout_constraintBottom_toBottomOf": "parent",
+          "gravity": "center_horizontal|bottom",
+          "ignore": "SpUsage",
+          "id": "camera_card_video_mode_name",
+          "text": "@string/camera_mode_video"
+        },
+        {
+          "layout_constraintEnd_toEndOf": "parent",
+          "layout_width": "66dp",
+          "layout_height": "66dp",
+          "layout_constraintBottom_toBottomOf": "parent",
+          "layout_marginEnd": "12dp",
+          "src": "@drawable/camera_card_video_icon_old",
+          "layout_constraintTop_toTopOf": "parent",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "layout_constraintEnd_toEndOf": "parent",
+      "layout_width": "76.57dp",
+      "layout_height": "6dp",
+      "layout_constraintBottom_toBottomOf": "parent",
+      "layout_marginBottom": "13dp",
+      "src": "@drawable/camera_card_bottom_logo_old",
+      "type": "image",
+      "translationZ": "10dp",
+      "layout_constraintStart_toStartOf": "parent"
+    }
+  ]
+}

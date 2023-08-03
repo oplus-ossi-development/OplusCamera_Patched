@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fold_full_mode_menu_panel_padding_left_right">16.0dip</dimen>
+    <dimen name="fold_tool_first_level_bar_width">250.0dip</dimen>
+    <dimen name="headline_bg_fold_offset">0.0dip</dimen>
+    <dimen name="long_exposure_capture_time_text_height">17.0dip</dimen>
+    <dimen name="long_exposure_effect_icon_margin_top">512.0dip</dimen>
+    <dimen name="long_exposure_effect_menu_height">58.0dip</dimen>
+    <dimen name="long_exposure_effect_menu_margin_bottom">244.0dip</dimen>
+    <dimen name="long_exposure_exposure_time_text_margin_left">44.0dip</dimen>
+    <dimen name="long_exposure_exposure_time_text_margin_left_180">44.0dip</dimen>
+    <dimen name="long_exposure_exposure_time_text_margin_left_90">168.0dip</dimen>
+    <dimen name="long_exposure_exposure_time_text_margin_right_270">149.34dip</dimen>
+    <dimen name="long_exposure_exposure_time_text_margin_top">391.0dip</dimen>
+    <dimen name="long_exposure_exposure_time_text_margin_top_180">375.0dip</dimen>
+    <dimen name="long_exposure_exposure_time_text_margin_top_270">250.0dip</dimen>
+    <dimen name="long_exposure_exposure_time_text_margin_top_90">385.0dip</dimen>
+    <dimen name="long_exposure_scale_bar_height">60.0dip</dimen>
+    <dimen name="long_exposure_scale_bar_margin_left">54.0dip</dimen>
+    <dimen name="long_exposure_scale_bar_margin_top">416.0dip</dimen>
+    <dimen name="long_exposure_scale_bar_width">340.0dip</dimen>
+    <dimen name="menu_option_item_width">36.0dip</dimen>
+    <dimen name="mode_edit_button_margin_bottom">103.0dip</dimen>
+    <dimen name="mode_edit_guide_webview_height">370.0dip</dimen>
+    <dimen name="mode_title_rectangle_radius">30.0dip</dimen>
+    <dimen name="more_mode_icon_top_padding">10.0dip</dimen>
+    <dimen name="night_countdown_time_margin_top">574.66406dip</dimen>
+    <dimen name="night_countdown_time_text_margin_top">578.0dip</dimen>
+    <dimen name="shutter_button_margin_top">644.0dip</dimen>
+    <dimen name="switch_camera_button_margin_top">652.0dip</dimen>
+    <dimen name="thumb_margin_bottom">10.0dip</dimen>
+    <dimen name="toolbar_margin_top">10.0dip</dimen>
+    <dimen name="top_margin_16_9">10.0dip</dimen>
+    <dimen name="head_line_margin_top">16.0dip</dimen>
+    <dimen name="watermark_visualization_makeup_margin_bottom">35.0dip</dimen>
+</resources>

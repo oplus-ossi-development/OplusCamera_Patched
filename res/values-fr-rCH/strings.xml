@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="color_runtime_read_external_storage">lire la carte SD</string>
+    <string name="color_runtime_read_phone_state">obtenir l’IMEI du téléphone</string>
+    <string name="color_runtime_warning_dialog_cancel">Quitter</string>
+    <string name="color_runtime_warning_dialog_disc">"« %1$s » nécessite les autorisations suivantes lors de l'utilisation : %2$s."</string>
+    <string name="color_runtime_warning_dialog_ok">Paramètres</string>
+    <string name="color_runtime_warning_dialog_title">%1$s</string>
+    <string name="feedback_app_name">Aide et commentaires</string>
+    <string name="sau_dialog_description_head">Mettre à jour les logs :</string>
+    <string name="sau_dialog_downloaded_prompt">Le package de mise à niveau a été téléchargé sans consommer de données cellulaires. Installer maintenant.</string>
+    <string name="sau_dialog_install_later">Plus tard</string>
+    <string name="sau_dialog_install_now">Installer</string>
+    <string name="sau_dialog_mobile_propmt">Vous utilisez actuellement le réseau cellulaire. Les mises à jour de l’application consommeront des données cellulaires.</string>
+    <string name="sau_dialog_size">Taille :</string>
+    <string name="sau_dialog_upgrade_later">Annuler</string>
+    <string name="sau_dialog_vername">Version :</string>
+    <string name="tx_cancel">Annuler</string>
+    <string name="tx_download_cancel">Téléchargement annulé</string>
+    <string name="tx_download_fail">Échec du téléchargement</string>
+    <string name="tx_download_progress_tips">%s téléchargés</string>
+    <string name="tx_download_url_error">Download link error</string>
+    <string name="tx_install">Installer</string>
+    <string name="tx_insuff_storage_space">Espace de stockage insuffisant</string>
+    <string name="tx_know">OK</string>
+    <string name="tx_load_fail">Échec du chargement de la Plateforme de services mobiles. Vérifiez votre connexion réseau.</string>
+    <string name="tx_mobile_service">·Plateforme de services mobiles</string>
+    <string name="tx_no_app_tip">Vous devez installer la dernière version du logiciel suivant pour accéder à ce service.</string>
+    <string name="tx_sure">Télécharger</string>
+    <string name="tx_verify_fail">Échec du téléchargement du fichier APK. Le télécharger à nouveau ?</string>
+</resources>

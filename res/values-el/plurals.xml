@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Διαγραφή %1$d στοιχείων</item>
+        <item quantity="one">Διαγραφή %1$d στοιχείου</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">Επιλέχθηκαν %1$d</item>
+        <item quantity="one">Επιλέχθηκε %1$d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+        <item quantity="one">%d νέα ειδοποίηση</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d νέες γνωστοποιήσεις</item>
+        <item quantity="one">%d νέα γνωστοποίηση</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">Επιλέχθηκαν %1$d αυτοκόλλητα</item>
+        <item quantity="one">Επιλέχθηκε %1$d αυτοκόλλητο</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Δυνατότητα εγγραφής βίντεο 4K στα 120 fps με διάρκεια έως και %d λεπτά</item>
+        <item quantity="one">Δυνατότητα εγγραφής βίντεο 4K στα 120 fps με διάρκεια έως και %d λεπτό</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Δυνατότητα εγγραφής βίντεο 8K στα 24 fps με διάρκεια έως και %d λεπτά</item>
+        <item quantity="one">Δυνατότητα εγγραφής βίντεο 8K στα 24 fps με διάρκεια έως και %d λεπτό</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Δυνατότητα εγγραφής βίντεο 8K στα 30 fps με διάρκεια έως και %d λεπτά</item>
+        <item quantity="one">Δυνατότητα εγγραφής βίντεο 8K στα 30 fps με διάρκεια έως και %d λεπτό</item>
+    </plurals>
+</resources>

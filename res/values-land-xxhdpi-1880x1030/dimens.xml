@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mode_name_tv_padding_bottom">0.39999998dip</dimen>
+    <dimen name="mode_picker_view_offset_a">0.39999998dip</dimen>
+    <dimen name="movie_histogram_margin_left">-6.5dip</dimen>
+    <dimen name="out_capture_guide_anim_height">172.0dip</dimen>
+    <dimen name="out_capture_guide_anim_width">240.0dip</dimen>
+    <dimen name="out_capture_guide_text_margin_bottom">24.0dip</dimen>
+    <dimen name="setting_item_padding_l">16.0dip</dimen>
+    <dimen name="setting_item_padding_r">16.0dip</dimen>
+    <dimen name="tele_small_preview_top_margin_ratio_169">74.0dip</dimen>
+    <dimen name="tele_small_preview_top_margin_ratio_full">108.0dip</dimen>
+    <dimen name="values_h">1060.0px</dimen>
+    <dimen name="values_w">1880.0px</dimen>
+    <dimen name="zoom_arc_seekbar_bg_circle_radius">225.0dip</dimen>
+    <dimen name="zoom_arc_seekbar_focus_circle_center_y">79.32999dip</dimen>
+    <dimen name="zoom_arc_seekbar_height">109.0dip</dimen>
+</resources>

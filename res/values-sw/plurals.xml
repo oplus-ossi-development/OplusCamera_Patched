@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Futa Vipengee %1$d</item>
+        <item quantity="one">Futa Kipengee %1$d</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">Zimechaguliwa %1$d</item>
+        <item quantity="one">Imechaguliwa %1$d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d arifa mpya</item>
+        <item quantity="one">Arifu %d mpya</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">Vibandiko %1$d vimechaguliwa</item>
+        <item quantity="one">Kibandiko %1$d kimechaguliwa</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Unaweza kurekodi hadi dakika %d ya video ya 4K kwa fps 120</item>
+        <item quantity="one">Unaweza kurekodi hadi dakika %d ya video ya 4K kwa fps 120</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Unaweza kurekodi hadi dakika %d ya video ya 8K kwa fps 24</item>
+        <item quantity="one">Unaweza kurekodi hadi dakika %d ya video ya 8K kwa fps 24</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Unaweza kurekodi hadi dakika %d ya video ya 8K kwa fps 30</item>
+        <item quantity="one">Unaweza kurekodi hadi dakika %d ya video ya 8K kwa fps 30</item>
+    </plurals>
+</resources>

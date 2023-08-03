@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">حذف %1$d من العناصر</item>
+        <item quantity="zero">حذف %1$d عنصر</item>
+        <item quantity="one">حذف %1$d من العناصر</item>
+        <item quantity="two">حذف عنصرين</item>
+        <item quantity="few">حذف %1$d عناصر</item>
+        <item quantity="many">حذف %1$d عنصرًا</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">تم تحديد %1$d</item>
+        <item quantity="zero">تم تحديد %1$d</item>
+        <item quantity="one">تم تحديد %1$d</item>
+        <item quantity="two">تم تحديد %1$d</item>
+        <item quantity="few">تم تحديد %1$d</item>
+        <item quantity="many">تم تحديد %1$d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d من الإشعارات الجديدة</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">%d من الإشعارات الجديدة</item>
+        <item quantity="two">إشعاران جديدان</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">تم تحديد %1$d ملصقات</item>
+        <item quantity="zero">تم تحديد %1$d ملصق</item>
+        <item quantity="one">تم تحديد ملصق واحد</item>
+        <item quantity="two">تم تحديد ملصقين</item>
+        <item quantity="few">تم تحديد %1$d ملصقات</item>
+        <item quantity="many">تم تحديد %1$d ملصقًا</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">يمكنك تسجيل ما يصل إلى %d دقيقة من فيديو بدقة ‪‎4K‬ بمعدل ١٢٠ إطارًا في الثانية</item>
+        <item quantity="zero">يمكنك تسجيل ما يصل إلى %d دقيقة من فيديو بدقة ‪‎4K‬ بمعدل ١٢٠ إطارًا في الثانية</item>
+        <item quantity="one">يمكنك تسجيل ما يصل إلى دقيقة واحدة من فيديو بدقة ‪‎4K‬ بمعدل ١٢٠ إطارًا في الثانية</item>
+        <item quantity="two">يمكنك تسجيل ما يصل إلى دقيقتين من فيديو بدقة ‪‎4K‬ بمعدل ١٢٠ إطارًا في الثانية</item>
+        <item quantity="few">يمكنك تسجيل ما يصل إلى %d دقائق من فيديو بدقة ‪‎4K‬ بمعدل ١٢٠ إطارًا في الثانية</item>
+        <item quantity="many">يمكنك تسجيل ما يصل إلى %d دقيقة من فيديو بدقة ‪‎4K‬ بمعدل ١٢٠ إطارًا في الثانية</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">يمكنك تسجيل ما يصل إلى %d دقيقة من فيديو بدقة ‪‎8K‬ بمعدل ٢٤ إطارًا في الثانية</item>
+        <item quantity="zero">يمكنك تسجيل ما يصل إلى %d دقيقة من فيديو بدقة ‪‎8K‬ بمعدل ٢٤ إطارًا في الثانية</item>
+        <item quantity="one">يمكنك تسجيل ما يصل إلى دقيقة واحدة من فيديو بدقة ‪‎8K‬ بمعدل ٢٤ إطارًا في الثانية</item>
+        <item quantity="two">يمكنك تسجيل ما يصل إلى دقيقتين من فيديو بدقة ‪‎8K‬ بمعدل ٢٤ إطارًا في الثانية</item>
+        <item quantity="few">يمكنك تسجيل ما يصل إلى %d دقائق من فيديو بدقة ‪‎8K‬ بمعدل ٢٤ إطارًا في الثانية</item>
+        <item quantity="many">يمكنك تسجيل ما يصل إلى %d دقيقة من فيديو بدقة ‪‎8K‬ بمعدل ٢٤ إطارًا في الثانية</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">يمكنك تسجيل ما يصل إلى %d دقيقة من فيديو بدقة ‪‎8K‬ بمعدل ٣٠ إطارًا في الثانية</item>
+        <item quantity="zero">يمكنك تسجيل ما يصل إلى %d دقيقة من فيديو بدقة ‪‎8K‬ بمعدل ٣٠ إطارًا في الثانية</item>
+        <item quantity="one">يمكنك تسجيل ما يصل إلى دقيقة واحدة من فيديو بدقة ‪‎8K‬ بمعدل ٣٠ إطارًا في الثانية</item>
+        <item quantity="two">يمكنك تسجيل ما يصل إلى دقيقتين من فيديو بدقة ‪‎8K‬ بمعدل ٣٠ إطارًا في الثانية</item>
+        <item quantity="few">يمكنك تسجيل ما يصل إلى %d دقائق من فيديو بدقة ‪‎8K‬ بمعدل ٣٠ إطارًا في الثانية</item>
+        <item quantity="many">يمكنك تسجيل ما يصل إلى %d دقيقة من فيديو بدقة ‪‎8K‬ بمعدل ٣٠ إطارًا في الثانية</item>
+    </plurals>
+</resources>

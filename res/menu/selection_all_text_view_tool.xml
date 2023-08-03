@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/self_select_all" android:orderInCategory="8" android:title="@string/self_select_all_text" />
+    <item android:id="@id/self_search" android:orderInCategory="9" android:title="@string/self_search_text" />
+</menu>

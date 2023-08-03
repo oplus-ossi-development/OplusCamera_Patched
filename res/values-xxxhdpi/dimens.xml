@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_margin_16_9">10.0dip</dimen>
+    <dimen name="watermark_divider_left_hs_normal">7.0dip</dimen>
+    <dimen name="watermark_divider_left_hs_title">9.5dip</dimen>
+    <dimen name="watermark_divider_right_hs_normal">7.0dip</dimen>
+    <dimen name="watermark_divider_right_hs_title">9.5dip</dimen>
+    <dimen name="watermark_hs_divider_width_normal">0.68000007dip</dimen>
+    <dimen name="face_beauty_custom_tab_item_width">60.669983dip</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tc="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/rl_tips" android:background="@drawable/download_corner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip">
+        <TextView android:textSize="16.0sp" android:textColor="@color/black_282828" android:gravity="center" android:id="@id/tv_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/tx_download_progress_tips" android:layout_centerHorizontal="true" />
+        <com.heytap.msp.sdk.common.view.RingTypeProgressBar android:id="@id/download_progress" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginTop="24.0dip" android:layout_below="@id/tv_progress" android:layout_centerHorizontal="true" tc:circleColor="@color/white_ffffff" tc:radius="10.0dip" tc:ringBgColor="@color/green_dff8ec" tc:ringColor="@color/green_34D387" tc:strokeWidth="5.0dip" />
+        <TextView android:textSize="16.0sp" android:textColor="@color/green_2ad181" android:gravity="center" android:id="@id/tv_cancel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="84.0dip" android:layout_marginTop="22.0dip" android:layout_marginRight="84.0dip" android:layout_marginBottom="20.0dip" android:text="@string/tx_cancel" android:layout_below="@id/download_progress" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>

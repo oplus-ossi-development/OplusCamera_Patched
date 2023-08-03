@@ -1,0 +1,97 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: OnePlus 11_Camera_3.537.51.apk
+compressionType: false
+doNotCompress:
+- classes.dex
+- resources.arsc
+- assets/CodeEdgeDetect_0324_BCHW.tflite
+- assets/dexopt/baseline.prof
+- png
+- lib/arm64-v8a/lib2DSlender.so
+- lib/arm64-v8a/libApsFaceBeautyPreviewJni.so
+- lib/arm64-v8a/libApsTiltShifPreviewJni.so
+- lib/arm64-v8a/libAvatarEngineRender.so
+- lib/arm64-v8a/libAvatarEngineRenderNative.so
+- lib/arm64-v8a/libFormatConverter.so
+- lib/arm64-v8a/libGradienterNativeLib.so
+- lib/arm64-v8a/libIccProfileJni.so
+- lib/arm64-v8a/libJniMetaTransform.so
+- lib/arm64-v8a/libNativeWindowJNI.so
+- lib/arm64-v8a/libNvStreamingSdkCore.so
+- lib/arm64-v8a/libTiltShiftPre.so
+- lib/arm64-v8a/libYuvUtil.so
+- lib/arm64-v8a/libaiunit_sdk_core.so
+- lib/arm64-v8a/libarcsoft_gpuvideobokeh_advanced.so
+- lib/arm64-v8a/libarcsoft_panorama_burstcapture.so
+- lib/arm64-v8a/libarcsoft_wideselfie.so
+- lib/arm64-v8a/libbcap.so
+- lib/arm64-v8a/libc++_shared.so
+- lib/arm64-v8a/libdns_server_rk.so
+- lib/arm64-v8a/libffmpeg.so
+- lib/arm64-v8a/libffmpegJNI.so
+- lib/arm64-v8a/libgav1JNI.so
+- lib/arm64-v8a/libimage-native-lib.so
+- lib/arm64-v8a/libjni_burstpmk.so
+- lib/arm64-v8a/libjni_wideselfie.so
+- lib/arm64-v8a/libjpeg.so
+- lib/arm64-v8a/liblicense-checker-jni.so
+- lib/arm64-v8a/libmmkv.so
+- lib/arm64-v8a/libmpbase.so
+- lib/arm64-v8a/libopencv_java4.so
+- lib/arm64-v8a/libpreview_show.so
+- lib/arm64-v8a/librtmp-jni.so
+- lib/arm64-v8a/libscan_engine_decode.so
+- lib/arm64-v8a/libst_sticker.so
+- lib/arm64-v8a/libst_sticker_jni.so
+- lib/arm64-v8a/libtensorflowlite.so
+- res/raw/guide_swing.mp4
+- mp4
+- res/raw/guide_starry_time_lapse.mp4
+- ogg
+- webp
+- res/raw/menu_dolly_zoom.gif
+- jpg
+- res/raw/guide_dolly_zoom.mp4
+- res/raw/menu_swing.gif
+- res/raw/menu_circle.gif
+- res/raw/menu_portrait.gif
+- res/raw/guide_portrait.mp4
+- res/raw/guide_circle.mp4
+- res/raw/cola_shutter.ogg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '30'
+  targetSdkVersion: '33'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  com/arcsoft/camera/burstpmk/YuvToRgb.rs: '8'
+  com/oplus/camera/watch/proto/WatchAgentProto.proto: '8'
+  com/oplusos/sau/aidl/AppUpdateInfo.aidl: '8'
+  com/oplusos/sau/aidl/DataresUpdateInfo.aidl: '8'
+  google/protobuf/any.proto: '8'
+  google/protobuf/api.proto: '8'
+  google/protobuf/descriptor.proto: '8'
+  google/protobuf/duration.proto: '8'
+  google/protobuf/empty.proto: '8'
+  google/protobuf/field_mask.proto: '8'
+  google/protobuf/source_context.proto: '8'
+  google/protobuf/struct.proto: '8'
+  google/protobuf/timestamp.proto: '8'
+  google/protobuf/type.proto: '8'
+  google/protobuf/wrappers.proto: '8'
+  google/protobuf/compiler/plugin.proto: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '40028'
+  versionName: 3.537.51

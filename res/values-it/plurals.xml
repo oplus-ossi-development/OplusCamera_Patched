@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Elimina %1$d elementi</item>
+        <item quantity="one">Elimina %1$d elemento</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d selezionato/i</item>
+        <item quantity="one">%1$d selezionato/i</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">%1$d adesivi selezionati</item>
+        <item quantity="one">%1$d adesivo selezionato</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Puoi registrare fino a %d minuti di video 4K a 120 fps</item>
+        <item quantity="one">Puoi registrare fino a %d minuto di video 4K a 120 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Puoi registrare fino a %d minuti di video 8K a 24 fps</item>
+        <item quantity="one">Puoi registrare fino a %d minuto di video 8K a 24 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Puoi registrare fino a %d minuti di video 8K a 30 fps</item>
+        <item quantity="one">Puoi registrare fino a %d minuto di video 8K a 30 fps</item>
+    </plurals>
+</resources>

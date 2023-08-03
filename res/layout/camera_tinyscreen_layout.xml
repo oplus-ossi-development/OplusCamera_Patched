@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oplus.camera.tinyscreen.TinyCardView android:layout_gravity="center_horizontal" android:id="@id/camera_card_photo" android:layout_width="@dimen/card_width" android:layout_height="@dimen/card_height" android:layout_marginTop="@dimen/card_margin_top" android:layout_marginStart="@dimen/card_margin_start" android:layout_marginEnd="@dimen/card_margin_end" />
+    <com.oplus.camera.tinyscreen.TinyCardView android:layout_gravity="center_horizontal" android:id="@id/camera_card_portrait" android:layout_width="@dimen/card_width" android:layout_height="@dimen/card_height" android:layout_marginTop="@dimen/card_margin_top" android:layout_marginStart="@dimen/card_margin_start" android:layout_marginEnd="@dimen/card_margin_end" />
+    <com.oplus.camera.tinyscreen.TinyCardView android:layout_gravity="center_horizontal" android:id="@id/camera_card_video" android:layout_width="@dimen/card_width" android:layout_height="@dimen/card_height" android:layout_marginTop="@dimen/card_margin_top" android:layout_marginStart="@dimen/card_margin_start" android:layout_marginEnd="@dimen/card_margin_end" />
+</LinearLayout>

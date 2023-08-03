@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">‫‏%1$d‬ اشیا حذف کریں</item>
+        <item quantity="one">‫‏%1$d‬ شے حذف کریں</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">‫‏%1$d‬ کو منتخب کیا گیا</item>
+        <item quantity="one">‫‏%1$d‬ کو منتخب کیا گیا</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d نئے اعلانات</item>
+        <item quantity="one">%d نئی اطلاع</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">‫‏%1$d‬ اسٹیکرز منتخب کیے گئے</item>
+        <item quantity="one">‫‏%1$d‬ اسٹیکر منتخب کیا گیا</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">آپ ‪‎120 fps‬ پر %d منٹ تک ‪‎4K‬ ویڈیو ریکارڈ کر سکتے ہیں</item>
+        <item quantity="one">آپ ‪‎120 fps‬ پر %d منٹ تک ‪‎4K‬ ویڈیو ریکارڈ کر سکتے ہیں</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">آپ ‪‎24 fps‬ پر %d منٹ تک ‪‎8K‬ ویڈیو ریکارڈ کر سکتے ہیں</item>
+        <item quantity="one">آپ ‪‎24 fps‬ پر %d منٹ تک ‪‎8K‬ ویڈیو ریکارڈ کر سکتے ہیں</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">آپ ‪‎30 fps‬ پر %d منٹ تک ‪‎8K‬ ویڈیو ریکارڈ کر سکتے ہیں</item>
+        <item quantity="one">آپ ‪‎30 fps‬ پر %d منٹ تک ‪‎8K‬ ویڈیو ریکارڈ کر سکتے ہیں</item>
+    </plurals>
+</resources>

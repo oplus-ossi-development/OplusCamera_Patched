@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Trinti %1$d elementus (-ų)</item>
+        <item quantity="one">Trinti %1$d elementą</item>
+        <item quantity="few">Ištrinti %1$d elementus</item>
+        <item quantity="many">Ištrinti %1$d elementų</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">Pasirinkta: %1$d</item>
+        <item quantity="one">Pasirinkta: %1$d</item>
+        <item quantity="few">Pasirinkta: %1$d</item>
+        <item quantity="many">Pasirinkta: %1$d</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">Naujų pranešimų: %d</item>
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">Pasirinkta %1$d lipdukų</item>
+        <item quantity="one">Pasirinktas %1$d lipdukas</item>
+        <item quantity="few">Pasirinkti %1$d lipdukai</item>
+        <item quantity="many">Pasirinkta %1$d lipdukų</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">120 kadr./sek. sparta galite įrašyti iki %d min. 4K vaizdo įrašą</item>
+        <item quantity="one">120 kadr./sek. sparta galite įrašyti iki %d min. 4K vaizdo įrašą</item>
+        <item quantity="few">120 kadr./sek. sparta galite įrašyti iki %d min. 4K vaizdo įrašą</item>
+        <item quantity="many">120 kadr./sek. sparta galite įrašyti iki %d min. 4K vaizdo įrašą</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">24 kadr./sek. sparta galite įrašyti iki %d min. 8K vaizdo įrašą</item>
+        <item quantity="one">24 kadr./sek. sparta galite įrašyti iki %d min. 8K vaizdo įrašą</item>
+        <item quantity="few">24 kadr./sek. sparta galite įrašyti iki %d min. 8K vaizdo įrašą</item>
+        <item quantity="many">24 kadr./sek. sparta galite įrašyti iki %d min. 8K vaizdo įrašą</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">30 kadr./sek. sparta galite įrašyti iki %d min. 8K vaizdo įrašą</item>
+        <item quantity="one">30 kadr./sek. sparta galite įrašyti iki %d min. 8K vaizdo įrašą</item>
+        <item quantity="few">30 kadr./sek. sparta galite įrašyti iki %d min. 8K vaizdo įrašą</item>
+        <item quantity="many">30 kadr./sek. sparta galite įrašyti iki %d min. 8K vaizdo įrašą</item>
+    </plurals>
+</resources>

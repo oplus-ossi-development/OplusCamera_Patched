@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/skin_detect_error" android:background="@color/skin_detect_fragment_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/macro_error_skin_thumb" android:layout_width="@dimen/skin_detect_thumb_width" android:layout_height="@dimen/skin_detect_thumb_height" android:layout_marginTop="@dimen/skin_detect_scanning_thumb_margin_top" android:scaleType="fitXY" android:layout_centerHorizontal="true" />
+</RelativeLayout>

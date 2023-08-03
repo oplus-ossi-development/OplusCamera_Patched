@@ -1,0 +1,109 @@
+{
+  "common_rear_preview": {
+    "func_face_slender_process": "美颜",
+    "preview_pf/preview_pf_v3": "炫彩",
+    "com.oplus.preview.capture.ai/preview_asd": "场景监测",
+    "func_preview_filter": "滤镜",
+    "com.oplus.salient.object.detection.enable": "主体识别"
+  },
+  "common_rear_capture": {
+    "aps_algo_face_beauty": "美颜",
+    "aps_algo_pf/aps_algo_pf_v1": "炫彩",
+    "aps_algo_face_rectify": "人脸畸变矫正",
+    "aps_algo_blurless": "Blurless",
+    "aps_algo_superphoto": "Superphoto",
+    "aps_algo_watermark": "水印",
+    "aps_algo_filter": "滤镜",
+    "aps_algo_rectify": "广角反畸变",
+    "aps_algo_fusion": "Fusion",
+    "com.oplus.super.clear.portrait.enable": "人像AI超清",
+    "aps_algo_upscale": "Upscale"
+  },
+  "common_front_preview": {
+    "func_face_slender_process": "美颜",
+    "func_preview_filter": "滤镜",
+    "func_preview_makeup": "美妆"
+  },
+  "common_front_capture": {
+    "aps_algo_face_beauty": "美颜",
+    "aps_algo_filter": "滤镜",
+    "aps_algo_blurless": "Blurless",
+    "aps_algo_watermark": "水印",
+    "com.oplus.camera.makeup.type": "美妆"
+  },
+  "portrait_rear_preview": {
+    "func_face_slender_process": "美颜",
+    "preview_rtb": "双目虚化"
+  },
+  "portrait_rear_capture": {
+    "aps_algo_face_beauty": "美颜",
+    "aps_algo_face_rectify": "人脸畸变矫正",
+    "aps_algo_superphoto": "Superphoto",
+    "aps_algo_watermark": "水印",
+    "aps_algo_brokeh": "双目虚化",
+    "com.oplus.portrait.neon.enable": "光斑人像"
+  },
+  "portrait_front_preview": {
+    "func_face_slender_process": "美颜",
+    "func_preview_makeup": "美妆",
+    "func_face_blur": "单目虚化"
+  },
+  "portrait_front_capture": {
+    "aps_algo_face_beauty": "美颜",
+    "aps_algo_single_blur/aps_algo_single_portrait": "单目虚化",
+    "aps_algo_watermark": "水印",
+    "aps_algo_blurless": "Blurless",
+    "com.oplus.camera.makeup.type": "美妆",
+    "com.oplus.portrait.neon.enable": "霓虹人像"
+  },
+  "commonVideo_rear_preview": {
+    "func_face_slender_process": "美颜",
+    "com.oplus.video.stabilization.mode": "AI 视频增强",
+    "video_watermark": "视频水印",
+    "aps_algo_fusion": "Fusion",
+    "func_preview_filter": "视频风格",
+    "function_video_blur": "视频虚化",
+    "com.oplus.camera.video.retention.open": "霓虹视频"
+  },
+  "commonVideo_front_preview": {
+    "function_video_blur": "视频虚化",
+    "func_preview_filter": "视频风格",
+    "com.oplus.video.stabilization.mode": "超级防抖",
+    "func_face_slender_process": "美颜"
+  },
+  "sticker_front_preview": {
+    "func_preview_sticker": "萌拍"
+  },
+  "sticker_rear_preview": {
+    "func_preview_sticker": "萌拍"
+  },
+  "superText_rear_preview": {
+    "func_preview_superText": "超级文本"
+  },
+  "superText_rear_capture": {
+    "aps_algo_super_text": "超级文本"
+  },
+  "night_rear_preview": {
+    "func_preview_filter": "滤镜",
+    "com.oplus.preview.tripod.mode": "脚架夜景"
+  },
+  "night_rear_capture": {
+    "aps_algo_filter": "滤镜",
+    "aps_algo_darksight": "极暗夜景",
+    "aps_algo_ai_night": "AI夜景",
+    "aps_algo_supernight": "超级夜景"
+  },
+  "night_front_preview": {
+    "func_preview_filter": "滤镜"
+  },
+  "night_front_capture": {
+    "aps_algo_filter": "滤镜",
+    "aps_algo_supernight": "超级夜景"
+  },
+  "150°_rear_preview": {
+    "aps_algo_fisheye": "鱼眼"
+  },
+  "starry_rear_capture": {
+    "aps_algo_starmode": "星空模式"
+  }
+}

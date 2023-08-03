@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/download_corner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:textColor="@color/black_000000" android:gravity="center" android:id="@id/tv_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="30.0dip" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="14.0sp" android:textColor="#ff000000" android:id="@id/tv_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" android:layout_marginTop="13.0dip" android:layout_marginRight="30.0dip" android:layout_below="@id/tv_title" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="24.0dip" android:layout_marginBottom="10.0dip" android:layout_below="@id/tv_content">
+        <Button android:textSize="16.0sp" android:textColor="@color/green_2ad181" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/btn_cancel" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tx_cancel" android:layout_weight="1.0" />
+        <View android:layout_gravity="center_vertical" android:id="@id/view" android:background="@color/black_d8d8d8" android:layout_width="0.6700001dip" android:layout_height="22.0dip" />
+        <Button android:textSize="16.0sp" android:textColor="@color/green_2ad181" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/btn_confirm" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tx_install" android:layout_weight="1.0" android:layout_toRightOf="@id/view" />
+    </LinearLayout>
+</RelativeLayout>

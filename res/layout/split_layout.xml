@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oplus.camera.common.view.capsulelayout.CapsuleLayout android:id="@id/global_screen_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.oplus.camera.common.view.CustomLottieAnimationView android:id="@id/rack_preview_move_button" android:background="@drawable/fold_screen_mode_out_screen_button_background" android:visibility="gone" android:layout_width="@dimen/rack_preview_move_button_size" android:layout_height="@dimen/rack_preview_move_button_size" app:lottie_autoPlay="false" app:lottie_loop="false" />
+    <com.oplus.camera.coui.view.RotateAnimationView android:id="@id/out_screen_capture_exit_button" android:background="@drawable/capsule_only_one_item_background" android:visibility="gone" android:layout_width="@dimen/global_screen_item_height" android:layout_height="@dimen/global_screen_item_height" android:layout_marginTop="@dimen/global_layout_margin_top" android:src="@drawable/icon_out_screen_capture_switch" android:scaleType="fitCenter" android:layout_marginStart="@dimen/global_layout_common_mode_margin_start" />
+</RelativeLayout>

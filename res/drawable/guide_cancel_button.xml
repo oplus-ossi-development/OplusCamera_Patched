@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="vector" android:height="@dimen/camera_3d_photo_video_play_icon_height" android:width="@dimen/camera_3d_photo_video_play_icon_width" android:viewportWidth="@integer/camera_3d_photo_video_play_icon_view_port_width" android:viewportHeight="@integer/camera_3d_photo_video_play_icon_view_port_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/camera_3d_photo_guide_btn_resume_color" android:pathData="M10.8684 11.9995L5.30908 17.5588L6.44045 18.6902L11.9998 13.1309L17.5591 18.6902L18.6905 17.5588L13.1311 11.9995L18.6905 6.44021L17.5591 5.30884L11.9998 10.8682L6.44045 5.30884L5.30908 6.44021L10.8684 11.9995Z" android:fillAlpha="0.85" android:fillType="evenOdd" />
+</vector>

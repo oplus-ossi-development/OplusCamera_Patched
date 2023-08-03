@@ -1,0 +1,11 @@
+.class public interface abstract Landroidx/f/a/g;
+.super Ljava/lang/Object;
+.source "SupportSQLiteStatement.java"
+
+# interfaces
+.implements Landroidx/f/a/d;
+
+
+# virtual methods
+.method public abstract a()I
+.end method

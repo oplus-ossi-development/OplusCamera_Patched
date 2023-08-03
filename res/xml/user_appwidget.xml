@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<card-provider app:groupImage="@drawable/ic_launcher_camera" app:groupTitle="@string/camera_app_name" app:oplus_card_desc="@string/camera_app_name" app:oplus_card_name="@string/camera_app_name" app:oplus_card_size="n2four" app:oplus_card_type="777770017" app:previewImage="@drawable/ic_launcher_camera" xmlns:app="http://schemas.android.com/apk/res-auto" />

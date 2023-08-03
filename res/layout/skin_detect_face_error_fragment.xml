@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/skin_detect_scanning_root" android:background="@color/skin_detect_fragment_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_horizontal" android:id="@id/skin_thumbs_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/skin_detect_scanning_thumb_margin_top">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/face_result_skin_thumb" android:layout_width="@dimen/skin_detect_thumb_width" android:layout_height="@dimen/skin_detect_thumb_height" android:scaleType="fitXY" />
+        <androidx.appcompat.widget.AppCompatImageView android:id="@id/macro_skin_thumb_view" android:layout_width="@dimen/skin_detect_thumb_width" android:layout_height="@dimen/skin_detect_thumb_height" android:scaleType="fitXY" android:layout_marginStart="@dimen/skin_detect_face_thumb_margin" android:layout_toEndOf="@id/face_result_skin_thumb" />
+    </RelativeLayout>
+</RelativeLayout>

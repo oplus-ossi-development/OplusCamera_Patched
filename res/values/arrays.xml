@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="AI_50m_icons">
+        <item>@drawable/submenu_high_resolution_ai_50m_off</item>
+        <item>@drawable/ai_high_pixel</item>
+    </array>
+    <array name="AI_high_pixel_icons">
+        <item>@drawable/submenu_high_resolution_50m_on</item>
+        <item>@drawable/ai_high_pixel</item>
+    </array>
+    <string-array name="AI_high_pixel_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="ai_cut_icons">
+        <item>@drawable/menu_ai_cut_off</item>
+        <item>@drawable/menu_ai_cut</item>
+    </array>
+    <string-array name="ai_cut_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="ai_enhancement_video_icons">
+        <item>@drawable/menu_pi_ai_on_ai</item>
+    </array>
+    <string-array name="ai_enhancement_video_names">
+        <item>@string/camera_ai_enhancement_video</item>
+        <item>@string/camera_ai_enhancement_video</item>
+    </string-array>
+    <string-array name="ai_enhancement_video_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="ai_follow_icons">
+        <item>@drawable/ai_follow_off</item>
+        <item>@drawable/ai_follow_on</item>
+    </array>
+    <string-array name="ai_follow_names">
+        <item>@string/camera_pi_off</item>
+        <item>@string/camera_pi_on</item>
+    </string-array>
+    <string-array name="ai_follow_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="ai_scene_text_function_enable_color">
+        <item>#ffbaffac</item>
+        <item>#ffff869d</item>
+        <item>#ff2f89ff</item>
+        <item>#ff00d1ba</item>
+        <item>#ffbaffac</item>
+    </array>
+    <string-array name="algo_switch_choose_list">
+        <item>On</item>
+        <item>InitProcess</item>
+        <item>Process</item>
+    </string-array>
+    <array name="blur_icons">
+        <item>@drawable/menu_blur_selector</item>
+        <item>@drawable/menu_blur_on</item>
+    </array>
+    <string-array name="blur_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="blur_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="camera_description_high_resolutions">
+        <item>@string/camera_toast_high_resolution_off</item>
+        <item>@string/camera_toast_high_resolution_on</item>
+    </string-array>
+    <string-array name="camera_mode_macro">
+        <item>@string/camera_mode_macro</item>
+        <item>@string/camera_mode_macro</item>
+    </string-array>
+    <string-array name="camera_raw_control_names">
+        <item>@string/camera_raw_control_off</item>
+        <item>@string/camera_raw_control_on</item>
+    </string-array>
+    <string-array name="camera_raw_control_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="camera_setting_hasselblad_watermark_display_info_values">
+        <item>Shot Info</item>
+        <item>Date and time</item>
+    </string-array>
+    <string-array name="camera_setting_line_photo_names">
+        <item>@string/camera_setting_reference_line_none</item>
+        <item>@string/camera_setting_reference_line_grid</item>
+        <item>@string/camera_setting_reference_line_diagonal</item>
+        <item>@string/camera_setting_reference_isometric_spiral</item>
+    </string-array>
+    <string-array name="camera_setting_line_photo_values">
+        <item>off</item>
+        <item>grid</item>
+        <item>triangle</item>
+        <item>spiral</item>
+    </string-array>
+    <string-array name="camera_setting_reference_line_names">
+        <item>@string/camera_setting_reference_line_none</item>
+        <item>@string/camera_setting_reference_line_grid</item>
+        <item>@string/camera_setting_reference_line_diagonal</item>
+        <item>@string/camera_setting_reference_isometric_spiral</item>
+    </string-array>
+    <string-array name="camera_setting_reference_line_values">
+        <item>off</item>
+        <item>grid</item>
+        <item>triangle</item>
+        <item>spiral</item>
+    </string-array>
+    <string-array name="camera_setting_watermark_apply_scope_names">
+        <item>@string/camera_slogan_apply_photo</item>
+        <item>@string/camera_slogan_apply_video</item>
+        <item>@string/camera_slogan_apply_all</item>
+    </string-array>
+    <string-array name="camera_setting_watermark_apply_scope_values">
+        <item>Photo</item>
+        <item>Video</item>
+        <item>All</item>
+    </string-array>
+    <string-array name="camera_setting_watermark_display_info_description">
+        <item></item>
+        <item></item>
+        <item>@string/camera_slogan_location_tip</item>
+    </string-array>
+    <string-array name="camera_setting_watermark_display_info_option">
+        <item>@string/camera_setting_watermark_info_option_phone</item>
+        <item>@string/camera_setting_watermark_info_option_date_and_time</item>
+        <item>@string/camera_setting_watermark_info_option_location</item>
+    </string-array>
+    <string-array name="camera_setting_watermark_display_info_values">
+        <item>Phone</item>
+        <item>Date and time</item>
+        <item>Location</item>
+    </string-array>
+    <string-array name="camera_setting_watermark_position_names">
+        <item>@string/camera_setting_watermark_location_names_upper_left_corner</item>
+        <item>@string/camera_setting_watermark_location_names_upper_right_corner</item>
+        <item>@string/camera_setting_watermark_location_names_center</item>
+        <item>@string/camera_setting_watermark_location_names_bottom_left_corner</item>
+        <item>@string/camera_setting_watermark_location_names_bottom_right_corner</item>
+    </string-array>
+    <string-array name="camera_setting_watermark_position_values">
+        <item>upper_left_corner</item>
+        <item>bottom_left_corner</item>
+        <item>center</item>
+        <item>upper_right_corner</item>
+        <item>bottom_right_corner</item>
+    </string-array>
+    <string-array name="camera_setting_watermark_size_names">
+        <item>@string/camera_setting_watermark_small_size</item>
+        <item>@string/camera_setting_watermark_medium_size</item>
+        <item>@string/camera_setting_watermark_large_size</item>
+    </string-array>
+    <string-array name="camera_setting_watermark_size_values">
+        <item>Small</item>
+        <item>Default</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="camera_shutter_sound_title_names">
+        <item>@string/camera_setting_shutter_sound_reference_line_none</item>
+        <item>@string/camera_setting_shutter_sound_reference_line_normal</item>
+        <item>@string/camera_setting_shutter_sound_reference_line_cola</item>
+    </string-array>
+    <string-array name="camera_shutter_sound_title_values">
+        <item>none</item>
+        <item>normal</item>
+        <item>customize</item>
+    </string-array>
+    <string-array name="camera_super_raw_control_names">
+        <item>@string/camera_super_raw_off</item>
+        <item>@string/camera_super_raw_on</item>
+        <item>@string/camera_super_raw_super</item>
+    </string-array>
+    <string-array name="camera_super_raw_control_values">
+        <item>off</item>
+        <item>on</item>
+        <item>super_raw</item>
+    </string-array>
+    <string-array name="camera_time_lapse_rate_names">
+        <item>@string/camera_time_lapse_rate_10x</item>
+        <item>@string/camera_time_lapse_rate_60x</item>
+        <item>@string/camera_time_lapse_rate_120x</item>
+        <item>@string/camera_time_lapse_rate_480x</item>
+        <item>@string/camera_time_lapse_rate_960x</item>
+    </string-array>
+    <string-array name="camera_time_lapse_rate_values">
+        <item>10</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
+        <item>960</item>
+    </string-array>
+    <array name="camera_video_hyper_lapse_icons">
+        <item>@drawable/hyper_lapse_off</item>
+        <item>@drawable/hyper_lapse_on</item>
+    </array>
+    <string-array name="camera_video_hyper_lapse_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="camera_video_hyper_lapse_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="coui_lunar_month">
+        <item>@string/lunar_january</item>
+        <item>@string/lunar_februry</item>
+        <item>@string/lunar_march</item>
+        <item>@string/lunar_april</item>
+        <item>@string/lunar_may</item>
+        <item>@string/lunar_june</item>
+        <item>@string/lunar_july</item>
+        <item>@string/lunar_august</item>
+        <item>@string/lunar_september</item>
+        <item>@string/lunar_october</item>
+        <item>@string/lunar_november</item>
+        <item>@string/lunar_december</item>
+    </string-array>
+    <string-array name="coui_number_keyboard_letters">
+        <item></item>
+        <item>@string/abc</item>
+        <item>@string/def</item>
+        <item>@string/ghi</item>
+        <item>@string/jkl</item>
+        <item>@string/mno</item>
+        <item>@string/pqrs</item>
+        <item>@string/tuv</item>
+        <item>@string/wxyz</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="coui_solor_mounth">
+        <item>@string/january</item>
+        <item>@string/februry</item>
+        <item>@string/march</item>
+        <item>@string/april</item>
+        <item>@string/may</item>
+        <item>@string/june</item>
+        <item>@string/july</item>
+        <item>@string/august</item>
+        <item>@string/september</item>
+        <item>@string/october</item>
+        <item>@string/november</item>
+        <item>@string/december</item>
+    </string-array>
+    <array name="coui_theme_arrays_default_patch">
+        <item>@style/COUIOverlay.Theme.Green.Default</item>
+        <item>@style/COUIOverlay.Theme.Red.Default</item>
+        <item>@style/COUIOverlay.Theme.Yellow.Default</item>
+        <item>@style/COUIOverlay.Theme.Blue.Default</item>
+        <item>@style/COUIOverlay.Theme.Orange.Default</item>
+        <item>@style/COUIOverlay.Theme.SkyBlue.Default</item>
+    </array>
+    <array name="coui_theme_arrays_default_patch_r">
+        <item>@style/COUIOverlay.Theme.Default.Patch.R</item>
+        <item>@style/COUIOverlay.Theme.Red.Default</item>
+        <item>@style/COUIOverlay.Theme.Yellow.Default</item>
+        <item>@style/COUIOverlay.Theme.Blue.Default</item>
+        <item>@style/COUIOverlay.Theme.Orange.Default</item>
+        <item>@style/COUIOverlay.Theme.SkyBlue.Default</item>
+    </array>
+    <array name="coui_theme_arrays_fifth">
+        <item>@style/COUIOverlay.Theme.Green.Fifth</item>
+        <item>@style/COUIOverlay.Theme.Red.Fifth</item>
+        <item>@style/COUIOverlay.Theme.Yellow.Fifth</item>
+        <item>@style/COUIOverlay.Theme.Blue.Fifth</item>
+        <item>@style/COUIOverlay.Theme.Orange.Fifth</item>
+        <item>@style/COUIOverlay.Theme.SkyBlue.Fifth</item>
+    </array>
+    <array name="coui_theme_arrays_first">
+        <item>@style/COUIOverlay.Theme.Green.First</item>
+        <item>@style/COUIOverlay.Theme.Red.First</item>
+        <item>@style/COUIOverlay.Theme.Yellow.First</item>
+        <item>@style/COUIOverlay.Theme.Blue.First</item>
+        <item>@style/COUIOverlay.Theme.Orange.First</item>
+        <item>@style/COUIOverlay.Theme.SkyBlue.First</item>
+    </array>
+    <array name="coui_theme_arrays_fourth">
+        <item>@style/COUIOverlay.Theme.Green.Fourth</item>
+        <item>@style/COUIOverlay.Theme.Red.Fourth</item>
+        <item>@style/COUIOverlay.Theme.Yellow.Fourth</item>
+        <item>@style/COUIOverlay.Theme.Blue.Fourth</item>
+        <item>@style/COUIOverlay.Theme.Orange.Fourth</item>
+        <item>@style/COUIOverlay.Theme.SkyBlue.Fourth</item>
+    </array>
+    <array name="coui_theme_arrays_ids">
+        <item>@array/coui_theme_arrays_first</item>
+        <item>@array/coui_theme_arrays_second</item>
+        <item>@array/coui_theme_arrays_third</item>
+        <item>@array/coui_theme_arrays_fourth</item>
+        <item>@array/coui_theme_arrays_fifth</item>
+    </array>
+    <array name="coui_theme_arrays_second">
+        <item>@style/COUIOverlay.Theme.Green.Second</item>
+        <item>@style/COUIOverlay.Theme.Red.Second</item>
+        <item>@style/COUIOverlay.Theme.Yellow.Second</item>
+        <item>@style/COUIOverlay.Theme.Blue.Second</item>
+        <item>@style/COUIOverlay.Theme.Orange.Second</item>
+        <item>@style/COUIOverlay.Theme.SkyBlue.Second</item>
+    </array>
+    <array name="coui_theme_arrays_single">
+        <item>@style/COUIOverlay.Theme.Single.First</item>
+        <item>@style/COUIOverlay.Theme.Single.Second</item>
+        <item>@style/COUIOverlay.Theme.Single.Third</item>
+        <item>@style/COUIOverlay.Theme.Single.Fourth</item>
+        <item>@style/COUIOverlay.Theme.Single.Fifth</item>
+        <item>@style/COUIOverlay.Theme.Single.Sixth</item>
+        <item>@style/COUIOverlay.Theme.Single.Seventh</item>
+        <item>@style/COUIOverlay.Theme.Single.Eighth</item>
+        <item>@style/COUIOverlay.Theme.Single.Ninth</item>
+        <item>@style/COUIOverlay.Theme.Single.Tenth</item>
+    </array>
+    <array name="coui_theme_arrays_third">
+        <item>@style/COUIOverlay.Theme.Green.Third</item>
+        <item>@style/COUIOverlay.Theme.Red.Third</item>
+        <item>@style/COUIOverlay.Theme.Yellow.Third</item>
+        <item>@style/COUIOverlay.Theme.Blue.Third</item>
+        <item>@style/COUIOverlay.Theme.Orange.Third</item>
+        <item>@style/COUIOverlay.Theme.SkyBlue.Third</item>
+    </array>
+    <string-array name="coui_time_picker_ampm">
+        <item>@string/morning</item>
+        <item>@string/afternoon</item>
+    </string-array>
+    <string-array name="disable_ai_enhancement_video_names">
+        <item>@string/camera_disable_ai_enhancement_video</item>
+        <item>@string/camera_disable_ai_enhancement_video</item>
+    </string-array>
+    <string-array name="disable_ai_enhancement_video_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="disable_ai_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="dolby_video_icons">
+        <item>@drawable/dolby_video_off</item>
+        <item>@drawable/dolby_video_on</item>
+    </array>
+    <string-array name="dolby_video_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="dolby_video_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="face_beauty_icons">
+        <item>@drawable/face_beauty_menu_control_button_facebeauty</item>
+        <item>@drawable/face_beauty_menu_control_button_facebeauty_light</item>
+    </array>
+    <string-array name="face_beauty_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="fast_video_resolution_icons">
+        <item>@drawable/top_tool_bar_fast_video_resolution_1080p</item>
+        <item>@drawable/top_tool_bar_fast_video_resolution_4k</item>
+    </array>
+    <string-array name="fast_video_resolution_names">
+        <item>@string/camera_video_size_1080p</item>
+        <item>@string/camera_video_size_4kuhd</item>
+    </string-array>
+    <string-array name="fast_video_resolution_values">
+        <item>@string/camera_video_size_value_1080p</item>
+        <item>@string/camera_video_size_value_4k</item>
+    </string-array>
+    <array name="filter_icons">
+        <item>@drawable/menu_effect_off_selector</item>
+        <item>@drawable/menu_effect_on_selector</item>
+    </array>
+    <string-array name="filter_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="filter_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="fix_focus_icons">
+        <item>@drawable/menu_fix_focus_aw</item>
+        <item>@drawable/menu_fix_focus_ay</item>
+        <item>@drawable/menu_fix_focus_mw</item>
+        <item>@drawable/menu_fix_focus_my</item>
+    </array>
+    <string-array name="fix_focus_names">
+        <item>@string/camera_fix_focus_mode_off</item>
+        <item>@string/camera_fix_focus_mode_on</item>
+    </string-array>
+    <string-array name="fix_focus_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="flash_mode_icons">
+        <item>@drawable/camera_menu_flash_off</item>
+        <item>@drawable/camera_menu_flash_on</item>
+        <item>@drawable/camera_menu_flash_auto_selector</item>
+        <item>@drawable/camera_menu_flash_torch</item>
+    </array>
+    <string-array name="flash_mode_names">
+        <item>@string/camera_flash_mode_off</item>
+        <item>@string/camera_flash_mode_on</item>
+        <item>@string/camera_flash_mode_auto</item>
+        <item>@string/camera_flash_mode_torch</item>
+    </string-array>
+    <string-array name="flash_mode_values">
+        <item>off</item>
+        <item>on</item>
+        <item>auto</item>
+        <item>torch</item>
+    </string-array>
+    <array name="focus_peaking_icons">
+        <item>@drawable/ic_focus_peaking_off</item>
+        <item>@drawable/ic_focus_peaking_on</item>
+    </array>
+    <string-array name="focus_peaking_names">
+        <item>@string/focus_peaking_off</item>
+        <item>@string/focus_peaking_on</item>
+    </string-array>
+    <string-array name="focus_peaking_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="fujian_to_match">
+        <item>福建</item>
+        <item>Fujian</item>
+    </string-array>
+    <array name="hdr_icons">
+        <item>@drawable/menu_hdr_mode_off_selector</item>
+        <item>@drawable/menu_hdr_mode_auto_selector</item>
+    </array>
+    <string-array name="hdr_names">
+        <item>@string/camera_hdr_off</item>
+        <item>@string/camera_hdr_auto</item>
+    </string-array>
+    <string-array name="hdr_values">
+        <item>off</item>
+        <item>auto</item>
+    </string-array>
+    <array name="high_frame_selected_icons">
+        <item>@drawable/high_frame_selected_off</item>
+        <item>@drawable/high_frame_selected_on</item>
+    </array>
+    <string-array name="high_frame_selected_names">
+        <item>@string/camera_raw_control_off</item>
+        <item>@string/camera_raw_control_on</item>
+    </string-array>
+    <string-array name="high_frame_selected_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="high_resolution_icons_44M">
+        <item>@drawable/submenu_high_resolution_44m_off_selector</item>
+        <item>@drawable/submenu_high_resolution_44m_on_selector</item>
+    </array>
+    <array name="high_resolution_icons_48M">
+        <item>@drawable/submenu_high_resolution_48m_off</item>
+        <item>@drawable/submenu_high_resolution_48m_on</item>
+    </array>
+    <array name="high_resolution_icons_50M">
+        <item>@drawable/submenu_high_resolution_50m_off</item>
+        <item>@drawable/submenu_high_resolution_50m_on</item>
+    </array>
+    <array name="high_resolution_icons_64M">
+        <item>@drawable/submenu_high_resolution_64m_off</item>
+        <item>@drawable/submenu_high_resolution_64m_on</item>
+    </array>
+    <array name="high_resolution_icons_normal">
+        <item>@drawable/submenu_high_resolution_normal_off</item>
+        <item>@drawable/submenu_high_resolution_normal_on</item>
+    </array>
+    <array name="high_resulution_icons">
+        <item>@drawable/high_resolution_off</item>
+        <item>@drawable/high_resolution_on</item>
+    </array>
+    <string-array name="high_resulution_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="histogram_icons">
+        <item>@drawable/ic_histogram_off</item>
+        <item>@drawable/ic_histogram_on</item>
+    </array>
+    <string-array name="histogram_names">
+        <item>@string/histogram_off</item>
+        <item>@string/histogram_on</item>
+    </string-array>
+    <string-array name="histogram_values">
+        <item>@string/histogram_off</item>
+        <item>@string/histogram_on</item>
+    </string-array>
+    <string-array name="hs_camera_setting_watermark_position_names">
+        <item>@string/camera_setting_watermark_location_names_upper_left_corner</item>
+        <item>@string/camera_setting_watermark_location_names_upper_right_corner</item>
+        <item>@string/camera_setting_watermark_location_names_center</item>
+        <item>@string/camera_setting_watermark_location_names_bottom_center</item>
+        <item>@string/camera_setting_watermark_location_names_bottom_left_corner</item>
+        <item>@string/camera_setting_watermark_location_names_bottom_right_corner</item>
+    </string-array>
+    <string-array name="hs_camera_setting_watermark_position_values">
+        <item>upper_left_corner</item>
+        <item>bottom_left_corner</item>
+        <item>center</item>
+        <item>hs_bottom_center</item>
+        <item>upper_right_corner</item>
+        <item>bottom_right_corner</item>
+    </string-array>
+    <string-array name="hs_professional_exposure_time_names">
+        <item>1/8000</item>
+        <item>1/6400</item>
+        <item>1/5000</item>
+        <item>1/4000</item>
+        <item>1/3200</item>
+        <item>1/2500</item>
+        <item>1/2000</item>
+        <item>1/1600</item>
+        <item>1/1250</item>
+        <item>1/1000</item>
+        <item>1/800</item>
+        <item>1/640</item>
+        <item>1/500</item>
+        <item>1/400</item>
+        <item>1/320</item>
+        <item>1/250</item>
+        <item>1/200</item>
+        <item>1/160</item>
+        <item>1/125</item>
+        <item>1/100</item>
+        <item>1/80</item>
+        <item>1/60</item>
+        <item>1/50</item>
+        <item>1/40</item>
+        <item>1/30</item>
+        <item>1/25</item>
+        <item>1/20</item>
+        <item>1/15</item>
+        <item>1/13</item>
+        <item>1/10</item>
+        <item>1/8</item>
+        <item>1/6</item>
+        <item>1/5</item>
+        <item>1/4</item>
+        <item>0.3</item>
+        <item>0.4</item>
+        <item>0.5</item>
+        <item>0.6</item>
+        <item>0.8</item>
+        <item>1</item>
+        <item>1.3</item>
+        <item>1.6</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3.2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>13</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="icon_high_resolutions">
+        <item>@string/camera_slogan_assignment_off</item>
+        <item>@string/camera_slogan_assignment_on</item>
+    </string-array>
+    <string-array name="icon_settings">
+        <item>@string/camera_setting_mode_off</item>
+        <item>@string/camera_setting_mode_on</item>
+    </string-array>
+    <string-array name="kinmen_to_match">
+        <item>金门</item>
+        <item>金門</item>
+        <item>Kinmen</item>
+        <item>Jinmen</item>
+    </string-array>
+    <string-array name="lianjiang_to_match">
+        <item>连江</item>
+        <item>連江</item>
+        <item>Lianjiang</item>
+    </string-array>
+    <string-array name="location_hk">
+        <item>香港</item>
+        <item>Hong Kong</item>
+    </string-array>
+    <string-array name="location_mo">
+        <item>澳门</item>
+        <item>澳門</item>
+        <item>Macao</item>
+        <item>Macau</item>
+    </string-array>
+    <string-array name="macro_flash_mode_values">
+        <item>off</item>
+        <item>torch</item>
+    </string-array>
+    <array name="macro_mode_icons">
+        <item>@drawable/macro_off_icon</item>
+        <item>@drawable/macro_auto_icon</item>
+    </array>
+    <string-array name="macro_mode_names">
+        <item>@string/camera_macro_mode_off</item>
+        <item>@string/camera_macro_mode_auto</item>
+    </string-array>
+    <string-array name="macro_mode_values">
+        <item>off</item>
+        <item>auto</item>
+    </string-array>
+    <array name="micro_lens_icons">
+        <item>@drawable/menu_micro_lens_off_selector</item>
+        <item>@drawable/menu_micro_lens_on</item>
+    </array>
+    <string-array name="micro_lens_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="microscope_scale_icons">
+        <item>@drawable/ic_microscope_scale_off</item>
+        <item>@drawable/ic_microscope_scale_on</item>
+    </array>
+    <string-array name="microscope_scale_names">
+        <item>@string/camera_microscope_scale_off</item>
+        <item>@string/camera_microscope_scale_on</item>
+    </string-array>
+    <string-array name="microscope_scale_values">
+        <item>@string/camera_microscope_scale_off</item>
+        <item>@string/camera_microscope_scale_on</item>
+    </string-array>
+    <array name="more_icons">
+        <item>@drawable/submenu_open_selector</item>
+        <item>@drawable/submenu_close_selector</item>
+    </array>
+    <array name="more_lottie_animation_icons">
+        <item>@raw/lottie_animation_submenu_on</item>
+        <item>@raw/lottie_animation_submenu_off</item>
+    </array>
+    <string-array name="more_names">
+        <item>@string/camera_setting_mode_on</item>
+        <item>@string/camera_setting_mode_off</item>
+    </string-array>
+    <string-array name="more_values">
+        <item>on</item>
+        <item>off</item>
+    </string-array>
+    <array name="multicamera_type_selected_icons">
+        <item>@drawable/multi_video_type_menu_normal</item>
+    </array>
+    <string-array name="multicamera_type_selected_names">
+        <item>@string/camera_raw_control_off</item>
+        <item>@string/camera_raw_control_on</item>
+    </string-array>
+    <string-array name="multicamera_type_selected_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="night_pro_exposure_time_names">
+        <item>1/64s</item>
+        <item>1/45s</item>
+        <item>1/36s</item>
+        <item>1/30s</item>
+        <item>1/23s</item>
+        <item>1/18s</item>
+        <item>1/15s</item>
+        <item>1/11s</item>
+        <item>1/9s</item>
+        <item>1/8s</item>
+        <item>1/6s</item>
+        <item>1/5s</item>
+        <item>1/4s</item>
+        <item>0.3s</item>
+        <item>0.5s</item>
+        <item>1s</item>
+        <item>1.3s</item>
+        <item>1.6s</item>
+        <item>2s</item>
+        <item>2.5s</item>
+        <item>3.2s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>6s</item>
+        <item>8s</item>
+        <item>10s</item>
+        <item>13s</item>
+        <item>16s</item>
+        <item>21s</item>
+        <item>27s</item>
+        <item>32s</item>
+        <item>42s</item>
+        <item>53s</item>
+        <item>64s</item>
+    </string-array>
+    <array name="night_pro_icons">
+        <item>@drawable/menu_night_pro_off_selector</item>
+        <item>@drawable/menu_night_pro_on_selector</item>
+    </array>
+    <string-array name="night_pro_names">
+        <item>@string/camera_night_pro_off</item>
+        <item>@string/camera_night_pro_on</item>
+    </string-array>
+    <string-array name="night_pro_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="night_starburst_mode_icons">
+        <item>@drawable/menu_night_starburst_mode_off</item>
+        <item>@drawable/menu_night_starburst_mode_on</item>
+    </array>
+    <string-array name="night_starburst_mode_names">
+        <item>@string/camera_night_starburst_mode_off</item>
+        <item>@string/camera_night_starburst_mode_on</item>
+    </string-array>
+    <string-array name="night_starburst_mode_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="night_tripod_mode_icons">
+        <item>@drawable/menu_night_tripod_mode_off</item>
+        <item>@drawable/menu_night_tripod_mode_on</item>
+    </array>
+    <string-array name="night_tripod_mode_names">
+        <item>handy</item>
+        <item>tripod</item>
+    </string-array>
+    <string-array name="night_tripod_mode_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="normal_touchsearch_keys">
+        <item>@string/star_character</item>
+        <item>@string/a</item>
+        <item>@string/b</item>
+        <item>@string/c</item>
+        <item>@string/d</item>
+        <item>@string/e</item>
+        <item>@string/f</item>
+        <item>@string/g</item>
+        <item>@string/h</item>
+        <item>@string/i</item>
+        <item>@string/j</item>
+        <item>@string/k</item>
+        <item>@string/l</item>
+        <item>@string/m</item>
+        <item>@string/n</item>
+        <item>@string/o</item>
+        <item>@string/p</item>
+        <item>@string/q</item>
+        <item>@string/r</item>
+        <item>@string/s</item>
+        <item>@string/t</item>
+        <item>@string/u</item>
+        <item>@string/v</item>
+        <item>@string/w</item>
+        <item>@string/x</item>
+        <item>@string/y</item>
+        <item>@string/z</item>
+        <item>@string/well_character</item>
+    </string-array>
+    <string-array name="oplus_r_multiple_camera_setting_watermark_position_names">
+        <item>@string/oplus_r_camera_setting_watermark_location_names_top</item>
+        <item>@string/oplus_r_camera_setting_watermark_location_names_bottom</item>
+    </string-array>
+    <string-array name="oplus_r_multiple_camera_setting_watermark_position_values">
+        <item>oplus_r_top</item>
+        <item>oplus_r_bottom</item>
+    </string-array>
+    <string-array name="oplus_r_single_camera_setting_watermark_position_names">
+        <item>@string/camera_setting_watermark_location_names_upper_left_corner</item>
+        <item>@string/camera_setting_watermark_location_names_upper_right_corner</item>
+        <item>@string/oplus_r_camera_setting_watermark_location_names_top_center</item>
+        <item>@string/oplus_r_camera_setting_watermark_location_names_bottom_center</item>
+        <item>@string/camera_setting_watermark_location_names_bottom_left_corner</item>
+        <item>@string/camera_setting_watermark_location_names_bottom_right_corner</item>
+    </string-array>
+    <string-array name="oplus_r_single_camera_setting_watermark_position_values">
+        <item>upper_left_corner</item>
+        <item>bottom_left_corner</item>
+        <item>oplus_r_top_center</item>
+        <item>bottom_center</item>
+        <item>upper_right_corner</item>
+        <item>bottom_right_corner</item>
+    </string-array>
+    <array name="parameter_saving_icons">
+        <item>@drawable/ic_parameter_saving_off</item>
+        <item>@drawable/ic_parameter_saving_c1</item>
+        <item>@drawable/ic_parameter_saving_c2</item>
+    </array>
+    <string-array name="parameter_saving_names">
+        <item>@string/parameter_saving_off</item>
+        <item>@string/parameter_saving_c1</item>
+        <item>@string/parameter_saving_c2</item>
+    </string-array>
+    <string-array name="parameter_saving_values">
+        <item>@string/parameter_saving_off</item>
+        <item>@string/parameter_saving_c1</item>
+        <item>@string/parameter_saving_c2</item>
+    </string-array>
+    <string-array name="photo_high_resolution_values">
+        <item>standard</item>
+        <item>standard_high</item>
+    </string-array>
+    <string-array name="photo_ratio_names">
+        <item>@string/camera_picture_size_standard</item>
+        <item>@string/camera_picture_size_square</item>
+        <item>@string/camera_picture_size_full</item>
+    </string-array>
+    <string-array name="photo_ratio_values">
+        <item>square</item>
+        <item>standard</item>
+        <item>16_9</item>
+        <item>full</item>
+    </string-array>
+    <string-array name="photo_ratio_values_with_high">
+        <item>square</item>
+        <item>standard</item>
+        <item>standard_high</item>
+        <item>full</item>
+    </string-array>
+    <array name="pi_ai_disable_icons">
+        <item>@drawable/menu_pi_ai_disable</item>
+    </array>
+    <array name="pi_ai_icons">
+        <item>@drawable/menu_pi_ai_off_selector</item>
+        <item>@drawable/menu_pi_ai_on_selector</item>
+    </array>
+    <string-array name="pi_ai_names">
+        <item>@string/camera_pi_off</item>
+        <item>@string/camera_pi_on</item>
+    </string-array>
+    <string-array name="pi_ai_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="pi_icons">
+        <item>@drawable/menu_pi_off</item>
+        <item>@drawable/menu_pi_on</item>
+    </array>
+    <string-array name="pi_names">
+        <item>@string/camera_pi_off</item>
+        <item>@string/camera_pi_on</item>
+    </string-array>
+    <string-array name="pi_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="portrait_new_style_icons">
+        <item>@drawable/menu_effect_off_selector</item>
+        <item>@drawable/menu_effect_on_light</item>
+    </array>
+    <string-array name="portrait_new_style_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="portrait_new_style_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pre_camera_line_video_names">
+        <item>@string/camera_setting_reference_line_none</item>
+        <item>@string/camera_setting_reference_line_grid</item>
+    </string-array>
+    <string-array name="pre_camera_line_video_values">
+        <item>off</item>
+        <item>grid</item>
+    </string-array>
+    <string-array name="professional_exposure_time_names">
+        <item>1/8000s</item>
+        <item>1/6400s</item>
+        <item>1/5000s</item>
+        <item>1/4000s</item>
+        <item>1/3200s</item>
+        <item>1/2500s</item>
+        <item>1/2000s</item>
+        <item>1/1600s</item>
+        <item>1/1250s</item>
+        <item>1/1000s</item>
+        <item>1/800s</item>
+        <item>1/640s</item>
+        <item>1/500s</item>
+        <item>1/400s</item>
+        <item>1/320s</item>
+        <item>1/250s</item>
+        <item>1/200s</item>
+        <item>1/160s</item>
+        <item>1/125s</item>
+        <item>1/100s</item>
+        <item>1/80s</item>
+        <item>1/60s</item>
+        <item>1/50s</item>
+        <item>1/40s</item>
+        <item>1/30s</item>
+        <item>1/25s</item>
+        <item>1/20s</item>
+        <item>1/15s</item>
+        <item>1/13s</item>
+        <item>1/10s</item>
+        <item>1/8s</item>
+        <item>1/6s</item>
+        <item>1/5s</item>
+        <item>1/4s</item>
+        <item>0.3s</item>
+        <item>0.4s</item>
+        <item>0.5s</item>
+        <item>0.6s</item>
+        <item>0.8s</item>
+        <item>1s</item>
+        <item>1.3s</item>
+        <item>1.6s</item>
+        <item>2s</item>
+        <item>2.5s</item>
+        <item>3.2s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>6s</item>
+        <item>8s</item>
+        <item>10s</item>
+        <item>13s</item>
+        <item>15s</item>
+        <item>20s</item>
+        <item>25s</item>
+        <item>30s</item>
+    </string-array>
+    <array name="professional_exposure_time_values" />
+    <integer-array name="professional_iso_values">
+        <item>100</item>
+        <item>125</item>
+        <item>160</item>
+        <item>200</item>
+        <item>250</item>
+        <item>320</item>
+        <item>400</item>
+        <item>500</item>
+        <item>640</item>
+        <item>800</item>
+        <item>1000</item>
+        <item>1250</item>
+        <item>1600</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3200</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6400</item>
+    </integer-array>
+    <array name="raw_icons">
+        <item>@drawable/super_raw_jpg</item>
+        <item>@drawable/super_raw_on</item>
+    </array>
+    <string-array name="raw_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="scale_icons">
+        <item>@drawable/photo_ratio_square_selector</item>
+        <item>@drawable/photo_ratio_standard_selector</item>
+        <item>@drawable/photo_ratio_16_9_selector</item>
+        <item>@drawable/photo_ratio_full_selector</item>
+    </array>
+    <string-array name="scale_model_names">
+        <item>@string/camera_picture_size_square</item>
+        <item>@string/camera_picture_size_standard</item>
+        <item>@string/camera_picture_size_16_9</item>
+        <item>@string/camera_picture_size_array_full</item>
+    </string-array>
+    <array name="setting_icons">
+        <item>@drawable/enter_camera_setting_selector</item>
+        <item>@drawable/enter_camera_setting_selector</item>
+    </array>
+    <string-array name="setting_long_press_shutter_choice">
+        <item>@string/camera_setting_long_press_choice_fast_record</item>
+        <item>@string/camera_setting_long_process_choice_continuous_shot</item>
+    </string-array>
+    <string-array name="setting_long_press_shutter_values">
+        <item>fast_record_video</item>
+        <item>continuous_shot</item>
+    </string-array>
+    <string-array name="setting_long_process_shutter_choice">
+        <item>@string/camera_setting_long_process_choice_continuous_shot</item>
+        <item>@string/camera_setting_long_process_choice_fast_record</item>
+    </string-array>
+    <string-array name="setting_long_process_shutter_values">
+        <item>continuous_shot</item>
+        <item>fast_record_video</item>
+    </string-array>
+    <string-array name="setting_names">
+        <item>@string/camera_setting_mode_off</item>
+        <item>@string/camera_setting_mode_on</item>
+    </string-array>
+    <string-array name="setting_slow_video_resolution_names">
+        <item>@string/camera_video_size_1080p</item>
+        <item>@string/camera_video_size_720p</item>
+    </string-array>
+    <string-array name="setting_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="setting_video_sound_names">
+        <item>@string/camera_video_normal_sound</item>
+        <item>@string/camera_video_all_round_sound</item>
+    </string-array>
+    <string-array name="setting_video_sound_summaries">
+        <item></item>
+        <item>@string/camera_video_all_round_sound_description</item>
+    </string-array>
+    <string-array name="setting_video_sound_values">
+        <item>normal</item>
+        <item>all_around</item>
+    </string-array>
+    <string-array name="shoulder_key_function_names">
+        <item>@string/camera_shoulder_key_function_shutter</item>
+        <item>@string/camera_shoulder_key_function_zoom</item>
+        <item>@string/camera_shoulder_key_function_off</item>
+    </string-array>
+    <string-array name="shoulder_key_function_values">
+        <item>shutter</item>
+        <item>zoom</item>
+        <item>off</item>
+    </string-array>
+    <array name="skin_detect_back_icons">
+        <item>@drawable/skin_detect_back_arrow_selector</item>
+        <item>@drawable/skin_detect_back_arrow_selector</item>
+    </array>
+    <string-array name="skin_detect_back_names">
+        <item>@string/skin_detect_back_off</item>
+        <item>@string/skin_detect_back_on</item>
+    </string-array>
+    <string-array name="skin_detect_back_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="skin_detect_switch_bar_icons">
+        <item>@drawable/skin_detect_switch_btn_left_icon</item>
+        <item>@drawable/skin_detect_switch_btn_right_icon</item>
+    </array>
+    <integer-array name="skin_detect_switch_bar_values">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <array name="slow_motion_fps_icons">
+        <item>@drawable/camera_menu_fps_120</item>
+        <item>@drawable/camera_menu_fps_240</item>
+        <item>@drawable/camera_menu_fps_480</item>
+        <item>@drawable/camera_menu_fps_960</item>
+    </array>
+    <string-array name="slow_motion_fps_names">
+        <item>@string/camera_slow_video_120_fps</item>
+        <item>@string/camera_slow_video_240_fps</item>
+        <item>@string/camera_slow_video_480_fps</item>
+        <item>@string/camera_slow_video_960_fps</item>
+    </string-array>
+    <string-array name="slow_motion_fps_values">
+        <item>@string/camera_slow_video_120_fps</item>
+        <item>@string/camera_slow_video_240_fps</item>
+        <item>@string/camera_slow_video_480_fps</item>
+        <item>@string/camera_slow_video_960_fps</item>
+    </string-array>
+    <array name="slow_video_fps_highlight_icons">
+        <item>@drawable/menu_slow_video_960fps_on</item>
+    </array>
+    <array name="slow_video_fps_icons">
+        <item>@drawable/menu_slow_video_960fps</item>
+    </array>
+    <string-array name="slow_video_fps_names">
+        <item>960FPS</item>
+    </string-array>
+    <string-array name="slow_video_fps_values">
+        <item>960</item>
+    </string-array>
+    <string-array name="slow_video_mode_frame_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="slow_video_mode_frame_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="slow_video_resolution_icons">
+        <item>@drawable/top_tool_bar_video_resolution_720p_selector</item>
+        <item>@drawable/top_tool_bar_video_resolution_1080p_selector</item>
+    </array>
+    <string-array name="slow_video_resolution_names">
+        <item>@string/camera_video_size_720p</item>
+        <item>@string/camera_video_size_1080p</item>
+    </string-array>
+    <string-array name="slow_video_resolution_values">
+        <item>@string/camera_video_size_value_720p</item>
+        <item>@string/camera_video_size_value_1080p</item>
+    </string-array>
+    <string-array name="special_touchsearch_keys">
+        <item>@string/a</item>
+        <item>@string/b</item>
+        <item>@string/c</item>
+        <item>@string/d</item>
+        <item>@string/e</item>
+        <item>@string/f</item>
+        <item>@string/g</item>
+        <item>@string/h</item>
+        <item>@string/i</item>
+        <item>@string/j</item>
+        <item>@string/k</item>
+        <item>@string/l</item>
+        <item>@string/m</item>
+        <item>@string/n</item>
+        <item>@string/o</item>
+        <item>@string/p</item>
+        <item>@string/q</item>
+        <item>@string/r</item>
+        <item>@string/s</item>
+        <item>@string/t</item>
+        <item>@string/u</item>
+        <item>@string/v</item>
+        <item>@string/w</item>
+        <item>@string/x</item>
+        <item>@string/y</item>
+        <item>@string/z</item>
+        <item>@string/well_character</item>
+    </string-array>
+    <array name="starry_mode_icons">
+        <item>@drawable/menu_starry_mode_off_dark</item>
+        <item>@drawable/menu_starry_mode_on_light</item>
+    </array>
+    <string-array name="starry_mode_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="storage_tip_external_full_internal_available_can_clean">
+        <item>@string/camera_storage_button_clean_external</item>
+        <item>@string/camera_storage_button_save_to_internal</item>
+        <item>@string/camera_storage_button_cancel</item>
+    </string-array>
+    <string-array name="storage_tip_external_full_internal_available_can_not_clean">
+        <item>@string/camera_button_ok</item>
+        <item>@string/camera_storage_button_save_to_internal</item>
+        <item>@string/camera_storage_button_cancel</item>
+    </string-array>
+    <string-array name="storage_tip_internal_full_external_available_can_clean">
+        <item>@string/camera_storage_button_clean_internal</item>
+        <item>@string/camera_storage_button_save_to_external</item>
+        <item>@string/camera_storage_button_cancel</item>
+    </string-array>
+    <string-array name="storage_tip_internal_full_external_available_can_not_clean">
+        <item>@string/camera_button_ok</item>
+        <item>@string/camera_storage_button_save_to_external</item>
+        <item>@string/camera_storage_button_cancel</item>
+    </string-array>
+    <array name="submenu_histogram_icons">
+        <item>@drawable/submenu_ic_histogram_off</item>
+        <item>@drawable/ic_histogram_on</item>
+    </array>
+    <array name="super_raw_icons">
+        <item>@drawable/super_raw_jpg</item>
+        <item>@drawable/super_raw_on</item>
+        <item>@drawable/super_raw_super</item>
+    </array>
+    <array name="super_raw_sub_icons">
+        <item>@drawable/super_raw_sub_jpg</item>
+        <item>@drawable/super_raw_sub_on</item>
+        <item>@drawable/super_raw_sub_super</item>
+    </array>
+    <string-array name="super_text_eMail_popupWindow_items">
+        <item>@string/mail_dialog_items_send_mail</item>
+        <item>@string/mail_dialog_items_mail_address</item>
+        <item>@string/mail_dialog_items_copy_mail_address</item>
+    </string-array>
+    <string-array name="super_text_number_popupWindow_items">
+        <item>@string/phone_dialog_items_call_phone</item>
+        <item>@string/phone_dialog_items_send_message</item>
+        <item>@string/phone_dialog_items_save_phone</item>
+        <item>@string/phone_dialog_items_copy_number</item>
+    </string-array>
+    <array name="switch_camera_icons">
+        <item>@drawable/camera_ultra_wide_selector</item>
+        <item>@drawable/camera_main_selector</item>
+        <item>@drawable/zoom_seek_bar_tele</item>
+        <item>@drawable/camera_macro_selector</item>
+    </array>
+    <string-array name="switch_camera_names">
+        <item>@string/camera_switch_ultra_wide_micro_lens</item>
+        <item>@string/camera_switch_main</item>
+        <item>@string/camera_switch_tele</item>
+        <item>@string/camera_switch_macro</item>
+    </string-array>
+    <string-array name="switch_camera_values">
+        <item>camera_ultra_wide</item>
+        <item>camera_main</item>
+        <item>camera_tele</item>
+        <item>camera_macro</item>
+    </string-array>
+    <array name="switch_dual_camera_icons">
+        <item>@drawable/switch_dual_camera_off</item>
+        <item>@drawable/switch_dual_camera_on</item>
+    </array>
+    <string-array name="switch_dual_camera_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="taiwan_to_match">
+        <item>台湾</item>
+        <item>臺灣</item>
+        <item>Taiwan</item>
+    </string-array>
+    <string-array name="time_lapse_pro_settings">
+        <item>@string/time_lapse_pro_setting_of_speed</item>
+        <item>@string/time_lapse_pro_setting_of_duration</item>
+        <item>@string/time_lapse_pro_setting_of_pro_params</item>
+    </string-array>
+    <string-array name="time_lapse_pro_speeds">
+        <item>@string/time_lapse_pro_speed_15x</item>
+        <item>@string/time_lapse_pro_speed_30x</item>
+        <item>@string/time_lapse_pro_speed_45x</item>
+        <item>@string/time_lapse_pro_speed_60x</item>
+        <item>@string/time_lapse_pro_speed_90x</item>
+        <item>@string/time_lapse_pro_speed_120x</item>
+        <item>@string/time_lapse_pro_speed_150x</item>
+        <item>@string/time_lapse_pro_speed_300x</item>
+        <item>@string/time_lapse_pro_speed_450x</item>
+        <item>@string/time_lapse_pro_speed_600x</item>
+        <item>@string/time_lapse_pro_speed_900x</item>
+        <item>@string/time_lapse_pro_speed_1200x</item>
+        <item>@string/time_lapse_pro_speed_1800x</item>
+    </string-array>
+    <string-array name="time_lapse_pro_templates">
+        <item>@string/camera_time_lapse_pro_no_template</item>
+        <item>@string/camera_time_lapse_pro_template_car</item>
+        <item>@string/camera_time_lapse_pro_template_star</item>
+        <item>@string/camera_time_lapse_pro_template_cloud</item>
+    </string-array>
+    <array name="time_lapse_rate_icons">
+        <item>@drawable/time_lapse_rate_10x</item>
+        <item>@drawable/time_lapse_rate_60x</item>
+        <item>@drawable/time_lapse_rate_120x</item>
+        <item>@drawable/time_lapse_rate_480x</item>
+        <item>@drawable/time_lapse_rate_960x</item>
+    </array>
+    <string-array name="timelapse_exposure_time_names">
+        <item>1/8000s</item>
+        <item>1/6400s</item>
+        <item>1/5000s</item>
+        <item>1/4000s</item>
+        <item>1/3200s</item>
+        <item>1/2500s</item>
+        <item>1/2000s</item>
+        <item>1/1600s</item>
+        <item>1/1250s</item>
+        <item>1/1000s</item>
+        <item>1/800s</item>
+        <item>1/640s</item>
+        <item>1/500s</item>
+        <item>1/400s</item>
+        <item>1/320s</item>
+        <item>1/250s</item>
+        <item>1/200s</item>
+        <item>1/160s</item>
+        <item>1/125s</item>
+        <item>1/100s</item>
+        <item>1/80s</item>
+        <item>1/60s</item>
+        <item>1/50s</item>
+        <item>1/40s</item>
+        <item>1/30s</item>
+        <item>1/25s</item>
+        <item>1/20s</item>
+        <item>1/15s</item>
+        <item>1/13s</item>
+        <item>1/10s</item>
+        <item>1/8s</item>
+        <item>1/6s</item>
+        <item>1/5s</item>
+        <item>1/4s</item>
+        <item>0.3s</item>
+        <item>0.4s</item>
+        <item>0.5s</item>
+        <item>0.6s</item>
+        <item>0.8s</item>
+        <item>1s</item>
+        <item>1.3s</item>
+        <item>1.6s</item>
+        <item>2s</item>
+        <item>2.5s</item>
+        <item>3.2s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>6s</item>
+        <item>8s</item>
+        <item>10s</item>
+        <item>13s</item>
+        <item>15s</item>
+        <item>20s</item>
+        <item>25s</item>
+        <item>30s</item>
+    </string-array>
+    <array name="timelapse_exposure_time_values" />
+    <array name="timer_icons">
+        <item>@drawable/submenu_timer_normal_selector</item>
+        <item>@drawable/submenu_timer_3s_selector</item>
+        <item>@drawable/submenu_timer_10s_selector</item>
+    </array>
+    <string-array name="timer_icons_model_names">
+        <item>@string/camera_shutter_mode_normal</item>
+        <item>@string/camera_time_lapse_3s</item>
+        <item>@string/camera_time_lapse_10s</item>
+    </string-array>
+    <string-array name="timer_shutter_names">
+        <item>@string/camera_shutter_mode_normal</item>
+        <item>@string/camera_time_lapse_3s</item>
+        <item>@string/camera_time_lapse_10s</item>
+    </string-array>
+    <string-array name="timer_shutter_values">
+        <item>normal</item>
+        <item>3</item>
+        <item>10</item>
+    </string-array>
+    <array name="tiny_flash_mode_icons">
+        <item>@drawable/camera_menu_flash_torch_off</item>
+        <item>@drawable/camera_menu_flash_torch</item>
+    </array>
+    <string-array name="tiny_flash_mode_values">
+        <item>off</item>
+        <item>torch</item>
+    </string-array>
+    <array name="top_first_level_video_resolution_icons">
+        <item>@drawable/top_first_level_menu_video_resolution_720p_selector</item>
+        <item>@drawable/top_first_level_menu_video_resolution_1080p_selector</item>
+        <item>@drawable/top_first_level_menu_video_resolution_4k</item>
+    </array>
+    <array name="torch_mode_icons">
+        <item>@drawable/camera_menu_flash_off</item>
+        <item>@drawable/camera_menu_flash_auto_selector</item>
+        <item>@drawable/camera_menu_flash_torch_selector</item>
+    </array>
+    <array name="torch_mode_icons_from_other_app">
+        <item>@drawable/camera_menu_flash_off</item>
+        <item>@drawable/camera_menu_flash_auto_selector</item>
+        <item>@drawable/camera_menu_flash_on</item>
+    </array>
+    <string-array name="torch_mode_names">
+        <item>@string/camera_torch_mode_off</item>
+        <item>@string/camera_torch_mode_auto</item>
+        <item>@string/camera_torch_mode_on</item>
+    </string-array>
+    <string-array name="torch_mode_values">
+        <item>off</item>
+        <item>auto</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="ultra_high_resolution_function_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="ultra_high_resolution_icons">
+        <item>@drawable/ic_hd_normal</item>
+        <item>@drawable/ic_hd_on</item>
+    </array>
+    <array name="ultra_night_video_icons">
+        <item>@drawable/ultra_night_video_off</item>
+        <item>@drawable/ultra_night_video_on</item>
+    </array>
+    <string-array name="ultra_night_video_names">
+        <item>@string/camera_setting_mode_off</item>
+        <item>@string/camera_setting_mode_on</item>
+    </string-array>
+    <string-array name="ultra_night_video_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="video_codec_names">
+        <item>@string/camera_video_codec_high_effect</item>
+        <item>@string/camera_video_codec_well_compatibility</item>
+    </string-array>
+    <string-array name="video_codec_summaries">
+        <item>@string/camera_video_codec_high_effect_summary</item>
+        <item>@string/camera_video_codec_well_compatibility_summary</item>
+    </string-array>
+    <string-array name="video_codec_values">
+        <item>H265</item>
+        <item>H264</item>
+    </string-array>
+    <array name="video_filter_icons">
+        <item>@drawable/menu_effect_off_selector</item>
+        <item>@drawable/menu_effect_on_selector</item>
+    </array>
+    <string-array name="video_filter_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="video_filter_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="video_flash_mode_icons">
+        <item>@drawable/camera_menu_flash_off</item>
+        <item>@drawable/camera_menu_flash_torch</item>
+    </array>
+    <string-array name="video_flash_mode_names">
+        <item>@string/camera_flash_mode_off</item>
+        <item>@string/camera_flash_mode_torch</item>
+    </string-array>
+    <string-array name="video_flash_mode_values">
+        <item>off</item>
+        <item>torch</item>
+    </string-array>
+    <array name="video_fps_icons">
+        <item>@drawable/top_tool_bar_video_fps_24</item>
+        <item>@drawable/top_tool_bar_video_fps_30</item>
+        <item>@drawable/top_tool_bar_video_fps_60</item>
+        <item>@drawable/top_tool_bar_video_fps_120</item>
+    </array>
+    <string-array name="video_fps_names">
+        <item>@string/camera_video_fps_24</item>
+        <item>@string/camera_video_fps_30</item>
+        <item>@string/camera_video_fps_60</item>
+        <item>@string/camera_video_fps_120</item>
+    </string-array>
+    <string-array name="video_fps_values">
+        <item>24</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+    </string-array>
+    <array name="video_hdr_icons">
+        <item>@drawable/menu_video_hdr_off_selector</item>
+        <item>@drawable/menu_video_hdr_on</item>
+    </array>
+    <string-array name="video_hdr_names">
+        <item>@string/camera_hdr_off</item>
+        <item>@string/camera_hdr_on</item>
+    </string-array>
+    <string-array name="video_hdr_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="video_resolution_icons">
+        <item>@drawable/top_tool_bar_video_resolution_720p_selector</item>
+        <item>@drawable/top_tool_bar_video_resolution_1080p_selector</item>
+        <item>@drawable/top_tool_bar_video_resolution_4k</item>
+        <item>@drawable/top_tool_bar_video_resolution_8k</item>
+    </array>
+    <string-array name="video_resolution_names">
+        <item>@string/camera_video_size_720p</item>
+        <item>@string/camera_video_size_1080p</item>
+        <item>@string/camera_video_size_4kuhd</item>
+        <item>@string/camera_video_size_8k</item>
+    </string-array>
+    <string-array name="video_resolution_values">
+        <item>@string/camera_video_size_value_720p</item>
+        <item>@string/camera_video_size_value_1080p</item>
+        <item>@string/camera_video_size_value_4k</item>
+        <item>@string/camera_video_size_value_8k</item>
+    </string-array>
+    <string-array name="video_sound_names">
+        <item>@string/camera_video_normal_sound</item>
+        <item>@string/camera_video_panorama_sound</item>
+        <item>@string/camera_video_focusing_sound</item>
+    </string-array>
+    <string-array name="video_sound_summaries">
+        <item></item>
+        <item>@string/camera_video_panorama_sound_description</item>
+        <item>@string/camera_video_focusing_sound_description</item>
+    </string-array>
+    <string-array name="video_sound_values">
+        <item>normal</item>
+        <item>panorama</item>
+        <item>focusing</item>
+    </string-array>
+    <array name="video_super_eis_icons">
+        <item>@drawable/super_eis_selector</item>
+        <item>@drawable/super_eis_light</item>
+    </array>
+    <string-array name="video_super_eis_names">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="video_super_eis_values">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <array name="vivid_icons">
+        <item>@drawable/menu_vivid_effect_off_dark</item>
+        <item>@drawable/menu_vivid_effect_on_light</item>
+    </array>
+    <string-array name="vivid_names">
+        <item>@string/camera_vivid_effect_off</item>
+        <item>@string/camera_vivid_effect_on</item>
+    </string-array>
+    <string-array name="vivid_values">
+        <item>@string/camera_vivid_effect_off</item>
+        <item>@string/camera_vivid_effect_on</item>
+    </string-array>
+    <string-array name="volume_key_function_names">
+        <item>@string/camera_volume_key_function_volume</item>
+        <item>@string/camera_volume_key_function_shutter</item>
+        <item>@string/camera_volume_key_function_zoom</item>
+    </string-array>
+    <string-array name="volume_key_function_values">
+        <item>volume</item>
+        <item>shutter</item>
+        <item>zoom</item>
+    </string-array>
+</resources>

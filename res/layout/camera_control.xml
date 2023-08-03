@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.camera.inverse.InverseColorRelativeLayout android:id="@id/control_panel_layout" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oplus.camera.control.LockViewDragLayout android:id="@id/control_panel_button_layout" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="@dimen/control_panel_button_height" android:layout_marginTop="@dimen/control_panel_margin_top" android:layout_alignParentTop="true">
+        <com.oplus.camera.common.view.ShareArrowImageView android:id="@id/up_arrow" android:paddingBottom="@dimen/arrow_anim_height" android:layout_width="@dimen/arrow_width" android:layout_height="@dimen/arrow_height" android:src="@drawable/icon_up_selector" />
+        <include layout="@layout/lock_view_layout" />
+        <com.oplus.camera.control.ShutterButton android:gravity="center" android:id="@id/switch_camera_button" android:background="@drawable/switch_camera_button_bg" android:focusable="false" android:visibility="invisible" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/control_button_margin_top" android:src="@drawable/btn_switch_camera_selector" android:contentDescription="@string/camera_description_rear_camera" android:layout_marginEnd="@dimen/control_button_margin_edge" android:layout_alignParentEnd="true" android:forceDarkAllowed="false" app:animationType="1" />
+    </com.oplus.camera.control.LockViewDragLayout>
+</com.oplus.camera.inverse.InverseColorRelativeLayout>

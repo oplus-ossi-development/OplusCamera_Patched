@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Odstrániť %1$d položky/-iek</item>
+        <item quantity="one">Odstrániť %1$d položku</item>
+        <item quantity="few">Odstrániť %1$d položky</item>
+        <item quantity="many">Odstrániť %1$d položiek</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d vybr.</item>
+        <item quantity="one">%1$d vybr.</item>
+        <item quantity="few">%1$d vybr.</item>
+        <item quantity="many">%1$d vybr.</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d nové oznámenia/-í</item>
+        <item quantity="one">%d nové oznámenie</item>
+        <item quantity="few">%d nové oznámenia</item>
+        <item quantity="many">%d nových oznámení</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">%1$d vybratých nálepiek</item>
+        <item quantity="one">%1$d vybr. nálepka</item>
+        <item quantity="few">%1$d vybraté nálepky</item>
+        <item quantity="many">%1$d vybratých nálepiek</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Zaznamenať možno maximálne %d min. 4K videa pri snímkovej frekvencii 120 fps</item>
+        <item quantity="one">Zaznamenať možno maximálne %d min. 4K videa pri snímkovej frekvencii 120 fps</item>
+        <item quantity="few">Zaznamenať možno maximálne %d min. 4K videa pri snímkovej frekvencii 120 fps</item>
+        <item quantity="many">Zaznamenať možno maximálne %d min. 4K videa pri snímkovej frekvencii 120 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Zaznamenať možno maximálne %d min. 8K videa pri snímkovej frekvencii 24 fps</item>
+        <item quantity="one">Zaznamenať možno maximálne %d min. 8K videa pri snímkovej frekvencii 24 fps</item>
+        <item quantity="few">Zaznamenať možno maximálne %d min. 8K videa pri snímkovej frekvencii 24 fps</item>
+        <item quantity="many">Zaznamenať možno maximálne %d min. 8K videa pri snímkovej frekvencii 24 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Zaznamenať možno maximálne %d min. 8K videa pri snímkovej frekvencii 30 fps</item>
+        <item quantity="one">Zaznamenať možno maximálne %d min. 8K videa pri snímkovej frekvencii 30 fps</item>
+        <item quantity="few">Zaznamenať možno maximálne %d min. 8K videa pri snímkovej frekvencii 30 fps</item>
+        <item quantity="many">Zaznamenať možno maximálne %d min. 8K videa pri snímkovej frekvencii 30 fps</item>
+    </plurals>
+</resources>

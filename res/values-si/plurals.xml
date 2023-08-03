@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">අයිතම %1$d ක් මකන්න</item>
+        <item quantity="one">%1$d අයිතමයක් මකන්න</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d තෝරන ලදී</item>
+        <item quantity="one">%1$d තෝරන ලදී</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">නව දැනුම්දීම් %dක්</item>
+        <item quantity="one">නව දැනුම්දීම් %dක්</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">නව දැනුම්දීම් %d ක්</item>
+        <item quantity="one">%d නව දැනුම්දීමක්</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">ස්ටිකර් %1$d ක් තෝරා ගන්නා ලදී</item>
+        <item quantity="one">%1$d ස්ටිකරයක් තෝරා ගන්නා ලදී</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">ඔබට 120 fps හි දී මිනිත්තු %d ක් දක්වා 4K වීඩියෝ පටිගත කළ හැකිය</item>
+        <item quantity="one">ඔබට 120 fps හි දී %d මිනිත්තුවක් දක්වා 4K වීඩියෝ පටිගත කළ හැකිය</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">ඔබට 24 fps හි දී මිනිත්තු %d ක් දක්වා 8K වීඩියෝ පටිගත කළ හැකිය</item>
+        <item quantity="one">ඔබට 24 fps හි දී %d මිනිත්තුවක් දක්වා 8K වීඩියෝ පටිගත කළ හැකිය</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">ඔබට 30 fps හි දී මිනිත්තු %d ක් දක්වා 8K වීඩියෝ පටිගත කළ හැකිය</item>
+        <item quantity="one">ඔබට 30 fps හි දී %d මිනිත්තුවක් දක්වා 8K වීඩියෝ පටිගත කළ හැකිය</item>
+    </plurals>
+</resources>

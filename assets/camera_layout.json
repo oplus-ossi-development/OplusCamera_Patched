@@ -1,0 +1,20 @@
+{
+  "layout_width": "match_parent",
+  "layout_height": "match_parent",
+  "package": "com.oplus.camera",
+  "layout_constraintHorizontal_chainStyle": "spread_inside",
+  "ignore": "ContentDescription",
+  "type": "constraint",
+  "child": [
+    {
+      "layout_width": "wrap_content",
+      "layout_height": "wrap_content",
+      "layout_constraintTop_toTopOf": "parent",
+      "type": "CameraTinyScreenLayout",
+      "forceDarkAllowed": "false",
+      "layout_constraintStart_toStartOf": "parent",
+      "layout_constraintEnd_toEndOf": "parent",
+      "layout_constraintBottom_toBottomOf": "parent"
+    }
+  ]
+}

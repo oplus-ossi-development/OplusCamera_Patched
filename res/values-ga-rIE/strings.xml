@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caesura_sign">", "</string>
+    <string name="color_runtime_sslverify_cancel">Cealaigh</string>
+    <string name="mobile_and_wlan_network_not_connect_str">Cas air “Sonraí Ceallacha” nó úsáid Wi-Fi chun rochtain a fháil</string>
+    <string name="no_network_connect_str">Níl nasc líonra ann</string>
+    <string name="sau_dialog_install_now">Suiteáil</string>
+    <string name="sau_dialog_new_version">Leagan Nua Braite</string>
+    <string name="sau_dialog_upgrade_exit">Scoir</string>
+    <string name="sau_dialog_upgrade_installing">Ag suiteáil...</string>
+    <string name="sau_dialog_upgrade_later">Cealaigh</string>
+    <string name="sau_dialog_upgrade_now">Nuashonraigh</string>
+    <string name="sau_dialog_upgrade_running">Ag nuashonrú...</string>
+    <string name="user_network_remind_info">Ba mhian le Cabhair &amp; Aiseolas líonra a nascadh le linn úsáide. An nglacann tú leis?</string>
+</resources>

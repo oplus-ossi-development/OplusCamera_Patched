@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.camera.ui.effectcontainer.NightSeSwitchButton android:id="@id/camera_switch_night_se" android:background="@drawable/blur_menu_control_button_background" android:visibility="gone" android:layout_width="@dimen/face_beauty_enter_button_width" android:layout_height="@dimen/face_beauty_enter_button_width" android:layout_marginBottom="@dimen/camera_night_se_margin_bottom" android:src="@drawable/night_se_switch_button_icon" android:layout_above="@id/control_panel_layout" android:layout_marginStart="@dimen/face_beauty_enter_button_margin_right" android:layout_alignParentStart="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

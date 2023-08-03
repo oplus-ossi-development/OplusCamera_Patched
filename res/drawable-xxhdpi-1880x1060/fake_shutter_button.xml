@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center" android:height="@dimen/fake_shutter_button_hasselblad_circle_size" android:width="@dimen/fake_shutter_button_hasselblad_circle_size">
+        <shape android:shape="oval" android:radius="@dimen/fake_shutter_button_hasselblad_circle_radius">
+            <solid android:color="@color/color_primary_light_hasselblad" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval" android:radius="@dimen/fake_shutter_button_radius">
+            <stroke android:width="@dimen/fake_shutter_button_ring_stroke" android:color="#ffffffff" />
+            <size android:height="@dimen/fake_shutter_button_size" android:width="@dimen/fake_shutter_button_size" />
+        </shape>
+    </item>
+</layer-list>

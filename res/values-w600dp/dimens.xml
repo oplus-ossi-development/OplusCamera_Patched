@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="coui_action_menu_item_view_margin_end">8.0dip</dimen>
+    <dimen name="coui_bottom_sheet_bg_bottom_corner_radius">0.0dip</dimen>
+    <dimen name="coui_navigation_item_text_size">12.0sp</dimen>
+    <dimen name="coui_tool_navigation_edge_item_padding">44.0dip</dimen>
+    <dimen name="coui_tool_navigation_item_height">56.0dip</dimen>
+</resources>

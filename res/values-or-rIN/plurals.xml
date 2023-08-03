@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">%1$d ଟି ଆଇଟମ୍ ବିଲୋପ କରନ୍ତୁ</item>
+        <item quantity="one">%1$d ଆଇଟମ୍ ବିଲୋପ କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d ଟା ଚୟନିତ</item>
+        <item quantity="one">%1$d ଚୟନିତ</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d ନୂତନ ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ</item>
+        <item quantity="one">%d ନୂତନ ବିଜ୍ଞପ୍ତି</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">%1$d ଟା ଷ୍ଟିକର୍ ଚୟନିତ</item>
+        <item quantity="one">%1$d ଷ୍ଟିକର୍ ଚୟନିତ</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">ଆପଣ 120 fps ରେ ସର୍ବାଧିକ %d ମିନିଟ୍ ର 4K ଭିଡିଓ ରେକର୍ଡ୍ କରିପାରିବେ</item>
+        <item quantity="one">ଆପଣ 120 fps ରେ ସର୍ବାଧିକ %d ମିନିଟ୍ ର 4K ଭିଡିଓ ରେକର୍ଡ୍ କରିପାରିବେ</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">ଆପଣ 24 fps ରେ ସର୍ବାଧିକ %d ମିନିଟ୍ ର 8K ଭିଡିଓ ରେକର୍ଡ୍ କରିପାରିବେ</item>
+        <item quantity="one">ଆପଣ 24 fps ରେ ସର୍ବାଧିକ %d ମିନିଟ୍ ର 8K ଭିଡିଓ ରେକର୍ଡ୍ କରିପାରିବେ</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">ଆପଣ 30 fps ରେ ସର୍ବାଧିକ %d ମିନିଟ୍ ର 8K ଭିଡିଓ ରେକର୍ଡ୍ କରିପାରିବେ</item>
+        <item quantity="one">ଆପଣ 30 fps ରେ ସର୍ବାଧିକ %d ମିନିଟ୍ ର 8K ଭିଡିଓ ରେକର୍ଡ୍ କରିପାରିବେ</item>
+    </plurals>
+</resources>

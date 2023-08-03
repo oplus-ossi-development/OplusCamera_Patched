@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Izbriši %1$d elemente</item>
+        <item quantity="one">Izbriši %1$d element</item>
+        <item quantity="two">Izbriši %1$d elementa</item>
+        <item quantity="few">Izbriši %1$d elemente</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d izbranih</item>
+        <item quantity="one">%1$d izbran</item>
+        <item quantity="two">%1$d izbrana</item>
+        <item quantity="few">%1$d izbrani</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">Št. novih obvestil: %d</item>
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">Izbrane so %1$d nalepke</item>
+        <item quantity="one">%1$d izbrana nalepka</item>
+        <item quantity="two">Izbrani sta %1$d nalepki</item>
+        <item quantity="few">Izbrani sta %1$d nalepki</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 4K pri 120 sličicah na sekundo</item>
+        <item quantity="one">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 4K pri 120 sličicah na sekundo</item>
+        <item quantity="two">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 4K pri 120 sličicah na sekundo</item>
+        <item quantity="few">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 4K pri 120 sličicah na sekundo</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 8K pri 24 sličicah na sekundo</item>
+        <item quantity="one">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 8K pri 24 sličicah na sekundo</item>
+        <item quantity="two">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 8K pri 24 sličicah na sekundo</item>
+        <item quantity="few">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 8K pri 24 sličicah na sekundo</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 8K pri 30 sličicah na sekundo</item>
+        <item quantity="one">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 8K pri 30 sličicah na sekundo</item>
+        <item quantity="two">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 8K pri 30 sličicah na sekundo</item>
+        <item quantity="few">Posnamete lahko največ %d-minutni videoposnetek v ločljivosti 8K pri 30 sličicah na sekundo</item>
+    </plurals>
+</resources>

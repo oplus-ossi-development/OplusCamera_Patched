@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.coui.appcompat.cardlist.COUICardListSelectedItemLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/imageView_watermark_makeup_visual" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/watermark_visualization_imageView_margin_bottom" android:src="@drawable/bg_watermark_makeup_visualization" android:layout_marginStart="@dimen/watermark_visualization_margin_left" android:layout_marginEnd="@dimen/watermark_visualization_margin_right" />
+</com.coui.appcompat.cardlist.COUICardListSelectedItemLayout>

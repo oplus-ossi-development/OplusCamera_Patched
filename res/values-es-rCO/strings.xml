@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caesura_sign">,</string>
+    <string name="color_runtime_sslverify_cancel">Cancelar</string>
+    <string name="color_runtime_sslverify_continue">Continuar</string>
+    <string name="color_runtime_sslverify_msg">Hay algunos problemas con el certificado de seguridad de este sitio.</string>
+    <string name="color_runtime_sslverify_title">Advertencia de seguridad</string>
+    <string name="fb_start_loading">Cargando...</string>
+    <string name="feedback_app_name">Opiniones</string>
+    <string name="mobile_and_wlan_network_not_connect_str">Active \"Datos celulares\" o use Wi-Fi para acceder</string>
+    <string name="no_network_connect_str">No hay conexión de red</string>
+    <string name="sau_dialog_install_now">Instalar</string>
+    <string name="sau_dialog_new_version">Se Detectó una Nueva Versión</string>
+    <string name="sau_dialog_upgrade_exit">Salir</string>
+    <string name="sau_dialog_upgrade_later">Cancelar</string>
+    <string name="sau_dialog_upgrade_now">Actualización</string>
+    <string name="sau_dialog_upgrade_running">Actualizando...</string>
+    <string name="user_network_remind_info">Ayuda y retroalimentación desea conectarse a la red durante su uso. ¿Aceptar?</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.viewpager2.widget.ViewPager2 android:id="@id/viewpager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="55.0dip" />
+    <com.google.android.material.appbar.AppBarLayout android:id="@id/appbar_layout" android:background="@drawable/coui_window_bg_with_card" android:layout_width="fill_parent" android:layout_height="wrap_content" app:elevation="0.0dip" app:layout_behavior="com.coui.appcompat.behavior.SecondToolbarBehavior">
+        <com.coui.appcompat.toolbar.COUIToolbar android:id="@id/toolbar" android:paddingTop="@dimen/toolbar_top_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/toolbar_min_height" app:supportTitleTextAppearance="@style/textAppearanceSecondTitle" />
+        <com.oplus.camera.setting.ButtonPageIndicator android:layout_gravity="center" android:id="@id/button_page_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.329987dip" android:layout_marginBottom="16.0dip" android:forceDarkAllowed="false" />
+        <View android:layout_gravity="center_horizontal" android:id="@id/divider_line" android:background="?couiColorDivider" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="@dimen/toolbar_horizontal_padding" android:layout_marginRight="@dimen/toolbar_horizontal_padding" android:alpha="0.0" android:forceDarkAllowed="false" />
+    </com.google.android.material.appbar.AppBarLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

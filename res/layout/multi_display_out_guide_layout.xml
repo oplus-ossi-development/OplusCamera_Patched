@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.camera.feature.out.screen.capture.SlideUpLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:enabled="false" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginTop="156.0dip" android:src="@drawable/ic_inner_display_camera" android:layout_centerHorizontal="true" />
+    <com.airbnb.lottie.LottieAnimationView android:enabled="false" android:id="@id/out_capture_arrow" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_above="@id/slide_up_textview" android:layout_centerHorizontal="true" />
+    <TextView android:enabled="false" android:textSize="16.0dip" android:textColor="#ffffffff" android:id="@id/slide_up_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="64.0dip" android:text="@string/camera_hint_slide_up" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</com.oplus.camera.feature.out.screen.capture.SlideUpLayout>

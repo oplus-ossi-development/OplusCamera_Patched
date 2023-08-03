@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_screen_time_lapse_pro_tips_layout_margin_bottom">120.0dip</dimen>
+    <dimen name="out_capture_guide_anim_height">172.0dip</dimen>
+    <dimen name="out_capture_guide_anim_width">240.0dip</dimen>
+    <dimen name="out_capture_guide_text_margin_bottom">24.0dip</dimen>
+    <dimen name="portrait_common_screen_mode_video_record_time_margin_top">535.0dip</dimen>
+    <dimen name="setting_item_padding_l">16.0dip</dimen>
+    <dimen name="setting_item_padding_r">16.0dip</dimen>
+    <dimen name="shutter_button_margin_top">615.0dip</dimen>
+    <dimen name="switch_camera_button_margin_top">624.0dip</dimen>
+    <dimen name="tele_small_preview_top_margin_ratio_169">74.0dip</dimen>
+    <dimen name="tele_small_preview_top_margin_ratio_full">108.0dip</dimen>
+    <dimen name="values_h">1880.0px</dimen>
+    <dimen name="values_w">1060.0px</dimen>
+</resources>

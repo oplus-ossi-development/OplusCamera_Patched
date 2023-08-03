@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/gallery_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.camera.inverse.InverseRelativeLayout android:id="@id/gallery_pager_inverse_layout" android:background="@color/gallery_preview_inverse_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.viewpager2.widget.ViewPager2 android:id="@id/gallery_pager" android:saveEnabled="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" android:overScrollMode="always" />
+    </com.oplus.camera.inverse.InverseRelativeLayout>
+    <com.oplus.camera.ui.widget.GalleryBottomMenuLayout android:orientation="horizontal" android:id="@id/gallery_menu_panel" android:background="@drawable/bg_gallery_menu_panel" android:layout_width="@dimen/gallery_bottom_menu_bar_width" android:layout_height="@dimen/gallery_bottom_menu_bar_height" android:layout_alignParentBottom="true" />
+    <RelativeLayout android:id="@id/gallery_empty_relative_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.airbnb.lottie.LottieAnimationView android:id="@id/gallery_preview_empty_img_view" android:layout_width="@dimen/gallery_preview_empty_image_view_width" android:layout_height="@dimen/gallery_preview_empty_image_view_height" android:layout_marginTop="@dimen/gallery_preview_empty_image_view_margin_top" android:layout_centerHorizontal="true" />
+        <com.oplus.camera.inverse.InverseTextView android:textSize="@dimen/gallery_preview_empty_title_text_size" android:textColor="@color/color_white_with_30_percent_transparency" android:gravity="center" android:id="@id/gallery_preview_empty_title_text_view" android:visibility="visible" android:layout_width="@dimen/gallery_preview_empty_image_view_width" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gallery_preview_empty_title_text_view_margin_top" android:text="@string/camera_gallery_preview_empty_title" android:layout_centerHorizontal="true" />
+        <com.oplus.camera.inverse.InverseTextView android:textSize="@dimen/gallery_preview_empty_description_text_size" android:textColor="@color/color_white_with_30_percent_transparency" android:gravity="center" android:id="@id/gallery_preview_empty_description_text_view" android:layout_width="@dimen/gallery_preview_empty_image_view_width" android:layout_height="wrap_content" android:layout_marginTop="@dimen/gallery_preview_empty_description_text_view_margin_top" android:text="@string/camera_gallery_preview_empty_description" android:layout_below="@id/gallery_preview_empty_title_text_view" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/gallery_mask" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:background="@color/color_black_with_40_percent_transparency" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="4.0" />
+        <View android:background="@color/color_black_with_30_percent_transparency" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

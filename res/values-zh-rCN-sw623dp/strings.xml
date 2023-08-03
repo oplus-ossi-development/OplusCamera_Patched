@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mariSilicon_introduce_tip">"本机型搭载 OPPO 首款自研影像 NPU 芯片，马里亚纳® MariSilicon X。
+通过它强大的图像数据处理能力，为您带来全方位的影像体验升级。%1$s"</string>
+    <string name="marisiliconX_title_two_lines">@string/marisilicon_setting_title</string>
+</resources>

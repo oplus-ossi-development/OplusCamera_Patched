@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="land_scape_full_screen_mode_control_panel_layout_translation_x">-21.0dip</dimen>
+    <dimen name="land_scape_full_screen_mode_setting_layout_margin_left">38.0dip</dimen>
+    <dimen name="portrait_full_screen_camera_control_panel_layout_translation_x">-18.0dip</dimen>
+    <dimen name="portrait_full_screen_camera_control_panel_layout_translation_y">142.0dip</dimen>
+    <dimen name="portrait_full_screen_camera_control_ratio_16_9_translation_x">-6.0dip</dimen>
+    <dimen name="portrait_full_screen_mode_setting_layout_margin_left">40.0dip</dimen>
+    <dimen name="values_h">1890.0px</dimen>
+    <dimen name="values_sw">800.0px</dimen>
+    <dimen name="values_w">2800.0px</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/exposure_time_slide_container" android:clipChildren="false" android:layout_width="@dimen/long_exposure_exposure_time_text_big_width" android:layout_height="@dimen/long_exposure_exposure_time_text_big_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+        <TextView android:id="@id/exposure_slide_time" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:fontFamily="sans-serif-light" />
+        <TextView android:id="@id/exposure_slide_second" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/long_exposure_time_second_margin_top" android:layout_toRightOf="@id/exposure_slide_time" android:layout_alignParentTop="true" android:fontFamily="sans-serif-light" android:layout_marginStart="@dimen/long_exposure_time_second_margin_start" />
+    </RelativeLayout>
+    <TextView android:gravity="center" android:id="@id/shutter_time_text_view" android:visibility="visible" android:layout_width="@dimen/long_exposure_capture_time_text_width" android:layout_height="@dimen/long_exposure_capture_time_text_height" android:layout_marginTop="@dimen/long_exposure_capture_time_text_margin_top" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

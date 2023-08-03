@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="long_exposure_effect_menu_margin_bottom_common_0_screen">237.0dip</dimen>
+    <dimen name="long_exposure_effect_menu_title_margin_bottom_common_0_screen">196.0dip</dimen>
+    <dimen name="long_exposure_exposure_slide_time_margin_top_common_0_screen">288.66406dip</dimen>
+    <dimen name="long_exposure_exposure_time_margin_bottom_common_0_screen">380.0dip</dimen>
+    <dimen name="long_exposure_scale_bar_margin_bottom_common_0_screen">314.0dip</dimen>
+    <dimen name="movie_mode_camera_time_view_horizontal_margin">50.669983dip</dimen>
+</resources>

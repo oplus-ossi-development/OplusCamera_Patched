@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Elemente %1$d löschen</item>
+        <item quantity="one">Element %1$d löschen</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d ausgewählt</item>
+        <item quantity="one">%1$d ausgewählt</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d neue Mitteilungen</item>
+        <item quantity="one">%d neue Mitteilung</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Sie können bis zu %d Minuten 4K-Video mit 120 fps aufnehmen</item>
+        <item quantity="one">Sie können bis zu %d Minute 4K-Video mit 120 fps aufnehmen</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Sie können bis zu %d Minuten 8K-Video mit 24 fps aufnehmen</item>
+        <item quantity="one">Sie können bis zu %d Minute 8K-Video mit 24 fps aufnehmen</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Sie können bis zu %d Minuten 8K-Video mit 30 fps aufnehmen</item>
+        <item quantity="one">Sie können bis zu %d Minute 8K-Video mit 30 fps aufnehmen</item>
+    </plurals>
+</resources>

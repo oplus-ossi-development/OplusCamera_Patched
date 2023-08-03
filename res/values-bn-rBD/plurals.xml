@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">%1$d আইটেম মুছুন</item>
+        <item quantity="one">%1$d আইটেম মুছুন</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d টি নির্বাচন করা হয়েছে</item>
+        <item quantity="one">%1$d টি নির্বাচন করা হয়েছে</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d নতুন নোটিফিকেশন</item>
+        <item quantity="one">%d নতুন নোটিফিকেশন</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">%1$d টি স্টিকার নির্বাচিত</item>
+        <item quantity="one">%1$d টি স্টিকার নির্বাচন করা হয়েছে</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">আপনি ৪কে ভিডিও ১২০ fps-এ %d মিনিট পর্যন্ত রেকর্ড করতে পারবেন</item>
+        <item quantity="one">আপনি ৪কে ভিডিও ১২০ fps-এ %d মিনিট পর্যন্ত রেকর্ড করতে পারবেন</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">আপনি ৮কে ভিডিও ২৪ fps-এ %d মিনিট পর্যন্ত রেকর্ড করতে পারবেন</item>
+        <item quantity="one">আপনি ৮কে ভিডিও ২৪ fps-এ %d মিনিট পর্যন্ত রেকর্ড করতে পারবেন</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">আপনি ৮কে ভিডিও ৩০ fps-এ %d মিনিট পর্যন্ত রেকর্ড করতে পারবেন</item>
+        <item quantity="one">আপনি ৮কে ভিডিও ৩০ fps-এ %d মিনিট পর্যন্ত রেকর্ড করতে পারবেন</item>
+    </plurals>
+</resources>

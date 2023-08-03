@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">Kustuta %1$d üksust</item>
+        <item quantity="one">Kustuta %1$d üksus</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">%1$d on valitud</item>
+        <item quantity="one">%1$d on valitud</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d uut teavitust</item>
+        <item quantity="one">%d uus teavitus</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">%1$d kleebist on valitud</item>
+        <item quantity="one">%1$d kleebis on valitud</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">Saate salvestada kuni %d minutit 4K-videot sagedusega 120 fps</item>
+        <item quantity="one">Saate salvestada kuni %d minut 4K-videot sagedusega 120 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">Saate salvestada kuni %d minutit 8K-videot sagedusega 24 fps</item>
+        <item quantity="one">Saate salvestada kuni %d minuti 8K-videot sagedusega 24 fps</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">Saate salvestada kuni %d minutit 8K-videot sagedusega 30 fps</item>
+        <item quantity="one">Saate salvestada kuni %d minut 8K-videot sagedusega 30 fps</item>
+    </plurals>
+</resources>

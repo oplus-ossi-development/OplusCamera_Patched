@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval" android:radius="@dimen/fake_shutter_button_radius"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/fake_shutter_button_ring_stroke" android:color="#ffffffff" />
+    <size android:height="@dimen/fake_shutter_button_size" android:width="@dimen/fake_shutter_button_size" />
+</shape>

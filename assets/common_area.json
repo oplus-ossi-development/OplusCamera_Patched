@@ -1,0 +1,75 @@
+{
+  "version": "1",
+  "autonomousPrefecture": [
+    "自治州",
+    "地区",
+    "锡林郭勒盟"
+  ],
+  "cityKey": ["City","市"],
+  "domestic": [
+    {
+      "disputingArea": [
+        "韦斯滕"
+      ],
+      "replaceName": "西藏自治区，日喀则市",
+      "desc": "基伍地区",
+      "country": ["CN","BT"],
+      "forceReplace": false
+    },
+    {
+      "disputingArea": [
+        "Western"
+      ],
+      "replaceName": "Shigatse City, Tibet Autonomous Region",
+      "country": ["CN","BT"],
+      "desc": "基伍地区英文环境替换",
+      "forceReplace": false
+    },
+    {
+      "disputingArea": [
+        "ལྷུན་རྩེ་རྫོང་ཁག་","Lower Subansiri","Kurung Kumey","Tawang","West Kameng","East Kameng","Papum Pare",
+        "Upper Subansiri","Lower Subansiri","West Siang","East Siang",
+        "Upper Dibang Valley","Lower Dibang Valley","Lohit","Anjaw"
+      ],
+      "replaceName": "",
+      "country": ["CN","BT","IN"],
+      "desc": "藏南地区",
+      "forceReplace": true
+    }
+  ],
+  "export": [
+    {
+      "disputingArea": [
+        "澎湖縣","澎湖县","澎湖郡","澎湖岛", "澎湖島","澎湖列岛","澎湖列島"
+      ],
+      "replaceName": "澎湖列岛",
+      "desc": "澎湖列岛",
+      "forceReplace": false
+    },
+    {
+      "disputingArea": [
+        "Penghu County","Penghu Island","Penghu Islands"
+      ],
+      "replaceName": "Penghu Islands",
+      "desc": "澎湖列岛英文",
+      "forceReplace": false
+    },
+    {
+      "disputingArea": [
+        "和田县","日土县","错那县","隆子县","米林县","墨脱县","察隅县","朗县","哈阿宗","百罗","伦奇宗","山南市","山南地区","噶尔县",
+        "和田縣","日土縣","錯那縣","隆子縣","米林縣","墨脫縣","察隅縣","朗縣","哈阿宗","百羅","倫奇宗","山南地區","噶尔縣",
+        "he tian xian","ri tu xian","cuo na xian","nong zi xian","mi lin xian","lang xian","Mêdog county","cha yu xian","Haa","Paro","Lhuntse","Lhuntshi","Shannan","Shannan Area","Ngari"
+      ],
+      "country": ["CN","BT","IN"],
+      "replaceName": "",
+      "desc": "敏感区域外销屏蔽,藏南地区",
+      "forceReplace": true
+    }
+
+  ],
+  "usedMainAdminArea":[
+    "Tokyo","东京"
+  ],
+  "usedSubAdminAreaCountry": ["ID"],
+  "checkCountryWithoutOtherFields": ["British Indian Ocean Territory","英属印度洋领地"]
+}

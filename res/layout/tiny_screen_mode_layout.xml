@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/tiny_screen_mode_root_view" android:visibility="gone" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.camera.ui.tinyui.TinyTorchMaskView android:id="@id/torch_video_mask_view" android:background="@color/tiny_screen_torch_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.oplus.camera.ui.tinyui.TinySettingRecyclerView android:id="@id/tiny_first_level_setting_ui" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.0dip" />
+    <include layout="@layout/tiny_setting_second_level_layout" />
+    <com.oplus.camera.ui.tinyui.SlideExitPanelBarView android:id="@id/tiny_screen_exit_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+    <View android:id="@id/torch_mask_view" android:background="@color/tiny_screen_torch_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

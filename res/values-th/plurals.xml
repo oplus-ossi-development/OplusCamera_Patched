@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="other">ลบ %1$d รายการ</item>
+        <item quantity="one">ลบ %1$d รายการ</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="other">เลือกแล้ว %1$d รายการ</item>
+        <item quantity="one">เลือกแล้ว %1$d รายการ</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">การแจ้งเตือนใหม่ %d รายการ</item>
+        <item quantity="one">การแจ้งเตือนใหม่ %d รายการ</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="other">เลือกสติ๊กเกอร์ไว้ %1$d รายการ</item>
+        <item quantity="one">%1$d สติกเกอร์ที่เลือก</item>
+    </plurals>
+    <plurals name="video_message_max_duration_4k_120fps">
+        <item quantity="other">คุณสามารถบันทึกวิดีโอ 4K ได้สูงสุด %d นาทีที่ 120 เฟรมต่อวินาที</item>
+        <item quantity="one">คุณสามารถบันทึกวิดีโอ 4K ได้สูงสุด %d นาทีที่ 120 เฟรมต่อวินาที</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_24fps">
+        <item quantity="other">คุณสามารถอัดบันทึกวิดีโอ 8K ได้สูงสุด %d นาทีที่อัตรา 24 เฟรมต่อวินาที</item>
+        <item quantity="one">คุณสามารถอัดบันทึกวิดีโอ 8K ได้สูงสุด %d นาทีที่อัตรา 24 เฟรมต่อวินาที</item>
+    </plurals>
+    <plurals name="video_message_max_duration_8k_30fps">
+        <item quantity="other">คุณสามารถบันทึกวิดีโอ 8K ได้สูงสุด %d นาทีที่ 30 เฟรมต่อวินาที</item>
+        <item quantity="one">คุณสามารถบันทึกวิดีโอ 8K ได้สูงสุด %d นาทีที่ 30 เฟรมต่อวินาที</item>
+    </plurals>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="guide_page_description_width">266.0dip</dimen>
+    <dimen name="long_exposure_effect_menu_margin_top_common_0_screen">467.5dip</dimen>
+    <dimen name="long_exposure_effect_menu_title_margin_top_common_0_screen">565.0dip</dimen>
+    <dimen name="long_exposure_exposure_time_margin_top_common_0_screen">385.32812dip</dimen>
+    <dimen name="long_exposure_scale_bar_margin_top_common_0_screen">409.0dip</dimen>
+    <dimen name="shutter_button_margin_top">635.0dip</dimen>
+    <dimen name="switch_camera_button_margin_top">644.0dip</dimen>
+    <dimen name="top_hint_common_vertical_margin">8.0dip</dimen>
+    <dimen name="values_h">2508.0px</dimen>
+    <dimen name="values_sw">354.0px</dimen>
+    <dimen name="values_w">1240.0px</dimen>
+</resources>

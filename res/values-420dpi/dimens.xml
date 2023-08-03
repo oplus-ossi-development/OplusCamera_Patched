@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_seekbar_pannel_height">78.0dip</dimen>
+    <dimen name="rotableview_text_size">10.0dip</dimen>
+    <dimen name="blur_menu_text_height">20.0dip</dimen>
+    <dimen name="blur_menu_text_margin_bottom">22.0dip</dimen>
+    <dimen name="blur_menu_text_margin_top">22.0dip</dimen>
+    <dimen name="shutter_button_move_circle_size">54.0dip</dimen>
+    <dimen name="toast_margin_top_text">17.0dip</dimen>
+</resources>

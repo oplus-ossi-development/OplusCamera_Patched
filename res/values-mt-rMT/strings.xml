@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caesura_sign">", "</string>
+    <string name="color_runtime_sslverify_cancel">Ikkanċella</string>
+    <string name="mobile_and_wlan_network_not_connect_str">Itfi d-“Data Ċellulari” jew uża l-Wi-Fi għall-aċċess</string>
+    <string name="no_network_connect_str">L-ebda konnessjoni man-network</string>
+    <string name="sau_dialog_install_now">Installa</string>
+    <string name="sau_dialog_new_version">Verżjoni Ġdida Misjuba</string>
+    <string name="sau_dialog_upgrade_exit">Oħroġ</string>
+    <string name="sau_dialog_upgrade_installing">Qed jinstalla...</string>
+    <string name="sau_dialog_upgrade_later">Ikkanċella</string>
+    <string name="sau_dialog_upgrade_now">Aġġorna</string>
+    <string name="user_network_remind_info">Għajnuna u Feedback jixtieq jikkonnettja man-network matul l-użu. Taċċetta?</string>
+</resources>
