@@ -488,8 +488,6 @@
     .line 110
     iget-object p0, p0, Lcom/oplus/camera/feature/basic/e/d;->a:Lcom/oplus/camera/widget/IntelligentDragView;
 
-    invoke-virtual {p0}, Lcom/oplus/camera/widget/IntelligentDragView;->getVisibility()I
-
     move-result p0
 
     if-nez p0, :cond_0
